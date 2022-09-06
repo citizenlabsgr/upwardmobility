@@ -1,0 +1,40 @@
+"Easy Access to State and County Juvenile Court Case Counts"
+
+"Counties in state: 16"
+
+,"2019 Population Estimates",,,"Delinquency",,"Status",,"Dependency",,
+"Reporting Counties","Total","10 Through Upper Age","0 Through Upper Age","Petition","Non-petition","Petition","Non-petition","Petition","Non-petition","All Reported Cases"
+"Androscoggin","108,300","10,400","23,300","177","--","--","--","117","--","--"
+"Aroostook","67,100","5,700","12,200","66","--","--","--","118","--","--"
+"Cumberland","295,000","25,400","54,000","318","--","--","--","108","--","--"
+"Franklin","30,200","2,600","5,300","43","--","--","--","29","--","--"
+"Hancock","55,000","4,400","9,400","41","--","--","--","46","--","--"
+"Kennebec","122,300","10,900","23,300","105","--","--","--","153","--","--"
+"Knox","39,800","3,400","7,000","51","--","--","--","25","--","--"
+"Lincoln","34,600","2,700","5,800","34","--","--","--","12","--","--"
+"Oxford","58,000","5,200","10,500","46","--","--","--","44","--","--"
+"Penobscot","152,100","13,100","27,400","135","--","--","--","277","--","--"
+"Piscataquis","16,800","1,400","2,800","*","--","--","--","26","--","--"
+"Sagadahoc","35,900","3,200","6,800","69","--","--","--","19","--","--"
+"Somerset","50,500","4,600","9,500","54","--","--","--","128","--","--"
+"Waldo","39,700","3,500","7,200","56","--","--","--","31","--","--"
+"Washington","31,400","2,900","5,900","27","--","--","--","22","--","--"
+"York","207,600","18,400","38,300","225","--","--","--","166","--","--"
+
+"Number of Reported Cases",,,,"1,450","--","--","--","1,321","--","--"
+"Population Represented","1,344,200","117,900","248,800","117,900","--","--","--","248,800","--","--"
+"Rates for Reporting Counties",,,,"12.30","--","--","--","5.31","--","--"
+"Number of Reporting Counties",,,,"16","--","--","--","16","--","--"
+
+"*Denotes case counts greater than zero and less than five."
+
+"--","Data are either not available or are not reliable for publication."
+"All Counties"
+"Source: Maine Administrative Office of the Courts"
+"Mode: Regional Caseload Statistics Reports"
+"1. Petitioned delinquency figures are Juvenile case filings, which include underage drinking and driving under the influence offenses."
+"2. Petitioned dependency figures are Child Protective case filings."
+"3. Petitioned dependency figures include cases received/filed by transfer between courts."
+
+"Suggested citation:Hockenberry, S., Smith, J., and Kang, W. (2021)."
+"Easy Access to State and County Juvenile Court Case Counts, 2019. Online. Available: https://www.ojjdp.gov/ojstatbb/ezaco/."

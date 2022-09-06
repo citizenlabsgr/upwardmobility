@@ -1,0 +1,37 @@
+"Easy Access to State and County Juvenile Court Case Counts"
+
+"Counties in state: 14"
+
+,"2018 Population Estimates",,,"Delinquency",,"Status",,"Dependency",,
+"Reporting Counties","Total","10 Through Upper Age","0 Through Upper Age","Petition","Non-petition","Petition","Non-petition","Petition","Non-petition","All Reported Cases"
+"Barnstable","213,400","15,900","32,200","380","--","213","--","141","--","--"
+"Berkshire","126,300","10,500","21,400","253","--","194","--","166","--","--"
+"Bristol","564,000","55,000","116,100","853","--","523","--","378","--","--"
+"Dukes","17,400","1,400","3,000","--","--","--","--","--","--","--"
+"Essex","790,600","78,500","168,500","1,412","--","836","--","337","--","--"
+"Franklin","71,000","5,900","12,400","219","--","96","--","163","--","--"
+"Hampden","470,400","47,900","101,100","965","--","336","--","521","--","--"
+"Hampshire","161,400","11,900","23,700","--","--","--","--","--","--","--"
+"Middlesex","1,614,700","145,600","318,800","1,030","--","839","--","298","--","--"
+"Nantucket","11,300","1,000","2,400","--","--","--","--","--","--","--"
+"Norfolk","705,400","70,500","147,700","449","--","299","--","138","--","--"
+"Plymouth","518,100","53,900","110,700","404","--","254","--","129","--","--"
+"Suffolk","807,300","56,100","134,100","863","--","958","--","452","--","--"
+"Worcester","830,800","82,700","174,700","1,036","--","679","--","652","--","--"
+
+"Number of Reported Cases",,,,"7,864","--","5,227","--","3,375","--","--"
+"Population Represented","6,902,100","636,700","1,366,900","622,400","--","622,400","--","1,337,700","--","--"
+"Rates for Reporting Counties",,,,"12.64","--","8.40","--","2.52","--","--"
+"Number of Reporting Counties",,,,"11","--","11","--","11","--","--"
+
+"--","Data are either not available or are not reliable for publication."
+"Source: Administrative Office of the Courts"
+"Mode: Massachusetts Court System Juvenile Court Department, Fiscal Year 2018 Statistics"
+"1. Delinquency figures are case filings for FY 2018."
+"2. Status figures are case filings for FY 2018."
+"3. Dependency figures are case filings for FY 2018."
+"4. Hampshire County figures are reported with Franklin County. "
+"5. Dukes County and Nantucket County figures are reported with Barnstable County."
+
+"Suggested citation:Hockenberry, S., Smith, J., and Kang, W. (2021)."
+"Easy Access to State and County Juvenile Court Case Counts, 2019. Online. Available: https://www.ojjdp.gov/ojstatbb/ezaco/."

@@ -1,0 +1,6649 @@
+{
+    "NV0010000": {
+        "ori": "NV0010000",
+        "agency_name": "Churchill County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CHURCHILL",
+        "nibrs": true,
+        "latitude": 39.525701,
+        "longitude": -118.270419,
+        "nibrs_start_date": "11/01/2020",
+        "violent_crime_counts": [
+            [
+                1985,
+                37
+            ],
+            [
+                1986,
+                34
+            ],
+            [
+                1987,
+                39
+            ],
+            [
+                1988,
+                47
+            ],
+            [
+                1989,
+                15
+            ],
+            [
+                1990,
+                16
+            ],
+            [
+                1991,
+                4
+            ],
+            [
+                1992,
+                6
+            ],
+            [
+                1993,
+                3
+            ],
+            [
+                1994,
+                10
+            ],
+            [
+                1995,
+                16
+            ],
+            [
+                1996,
+                40
+            ],
+            [
+                1997,
+                74
+            ],
+            [
+                1998,
+                55
+            ],
+            [
+                1999,
+                50
+            ],
+            [
+                2000,
+                62
+            ],
+            [
+                2001,
+                53
+            ],
+            [
+                2002,
+                62
+            ],
+            [
+                2003,
+                77
+            ],
+            [
+                2004,
+                67
+            ],
+            [
+                2005,
+                51
+            ],
+            [
+                2006,
+                52
+            ],
+            [
+                2007,
+                40
+            ],
+            [
+                2008,
+                20
+            ],
+            [
+                2009,
+                23
+            ],
+            [
+                2010,
+                39
+            ],
+            [
+                2011,
+                18
+            ],
+            [
+                2012,
+                22
+            ],
+            [
+                2013,
+                12
+            ],
+            [
+                2014,
+                25
+            ],
+            [
+                2015,
+                24
+            ],
+            [
+                2016,
+                28
+            ],
+            [
+                2017,
+                26
+            ],
+            [
+                2018,
+                30
+            ],
+            [
+                2019,
+                20
+            ],
+            [
+                2020,
+                26
+            ]
+        ]
+    },
+    "NV0010100": {
+        "ori": "NV0010100",
+        "agency_name": "Fallon Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CHURCHILL",
+        "nibrs": true,
+        "latitude": 39.4748,
+        "longitude": -118.77769,
+        "nibrs_start_date": "11/01/2020",
+        "violent_crime_counts": [
+            [
+                1985,
+                19
+            ],
+            [
+                1986,
+                16
+            ],
+            [
+                1987,
+                30
+            ],
+            [
+                1988,
+                16
+            ],
+            [
+                1989,
+                12
+            ],
+            [
+                1990,
+                20
+            ],
+            [
+                1991,
+                16
+            ],
+            [
+                1992,
+                36
+            ],
+            [
+                1993,
+                15
+            ],
+            [
+                1994,
+                19
+            ],
+            [
+                1995,
+                11
+            ],
+            [
+                1996,
+                18
+            ],
+            [
+                1997,
+                7
+            ],
+            [
+                1998,
+                31
+            ],
+            [
+                1999,
+                25
+            ],
+            [
+                2000,
+                17
+            ],
+            [
+                2001,
+                16
+            ],
+            [
+                2002,
+                23
+            ],
+            [
+                2003,
+                21
+            ],
+            [
+                2004,
+                29
+            ],
+            [
+                2005,
+                27
+            ],
+            [
+                2006,
+                18
+            ],
+            [
+                2007,
+                24
+            ],
+            [
+                2008,
+                33
+            ],
+            [
+                2009,
+                29
+            ],
+            [
+                2010,
+                29
+            ],
+            [
+                2011,
+                11
+            ],
+            [
+                2012,
+                23
+            ],
+            [
+                2013,
+                23
+            ],
+            [
+                2014,
+                32
+            ],
+            [
+                2015,
+                38
+            ],
+            [
+                2016,
+                17
+            ],
+            [
+                2017,
+                23
+            ],
+            [
+                2018,
+                20
+            ],
+            [
+                2019,
+                16
+            ],
+            [
+                2020,
+                19
+            ]
+        ]
+    },
+    "NV0020100": {
+        "ori": "NV0020100",
+        "agency_name": "Las Vegas Metropolitan Police Department Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CLARK",
+        "nibrs": true,
+        "latitude": 36.17203,
+        "longitude": -115.14022,
+        "nibrs_start_date": "09/01/2020",
+        "violent_crime_counts": [
+            [
+                1985,
+                3624
+            ],
+            [
+                1986,
+                3947
+            ],
+            [
+                1987,
+                3884
+            ],
+            [
+                1988,
+                4024
+            ],
+            [
+                1989,
+                4094
+            ],
+            [
+                1990,
+                4510
+            ],
+            [
+                1991,
+                5661
+            ],
+            [
+                1992,
+                6027
+            ],
+            [
+                1993,
+                7281
+            ],
+            [
+                1994,
+                9418
+            ],
+            [
+                1995,
+                9523
+            ],
+            [
+                1996,
+                8409
+            ],
+            [
+                1997,
+                7509
+            ],
+            [
+                1998,
+                7051
+            ],
+            [
+                1999,
+                6133
+            ],
+            [
+                2000,
+                6349
+            ],
+            [
+                2001,
+                7549
+            ],
+            [
+                2002,
+                8981
+            ],
+            [
+                2003,
+                9158
+            ],
+            [
+                2004,
+                9783
+            ],
+            [
+                2005,
+                9530
+            ],
+            [
+                2006,
+                12931
+            ],
+            [
+                2007,
+                13641
+            ],
+            [
+                2008,
+                13324
+            ],
+            [
+                2009,
+                13039
+            ],
+            [
+                2010,
+                12648
+            ],
+            [
+                2011,
+                10813
+            ],
+            [
+                2012,
+                11598
+            ],
+            [
+                2013,
+                11374
+            ],
+            [
+                2014,
+                12876
+            ],
+            [
+                2015,
+                14383
+            ],
+            [
+                2016,
+                13520
+            ],
+            [
+                2017,
+                10064
+            ],
+            [
+                2018,
+                9949
+            ],
+            [
+                2019,
+                8855
+            ],
+            [
+                2020,
+                8934
+            ]
+        ]
+    },
+    "NV0020200": {
+        "ori": "NV0020200",
+        "agency_name": "North Las Vegas Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CLARK",
+        "nibrs": true,
+        "latitude": 36.214236,
+        "longitude": -115.013819,
+        "nibrs_start_date": "11/01/2019",
+        "violent_crime_counts": [
+            [
+                1985,
+                695
+            ],
+            [
+                1986,
+                756
+            ],
+            [
+                1987,
+                730
+            ],
+            [
+                1988,
+                774
+            ],
+            [
+                1993,
+                719
+            ],
+            [
+                1994,
+                1689
+            ],
+            [
+                1995,
+                1618
+            ],
+            [
+                1996,
+                1371
+            ],
+            [
+                1997,
+                1361
+            ],
+            [
+                1998,
+                1238
+            ],
+            [
+                1999,
+                1198
+            ],
+            [
+                2000,
+                1197
+            ],
+            [
+                2001,
+                1353
+            ],
+            [
+                2002,
+                1294
+            ],
+            [
+                2003,
+                1163
+            ],
+            [
+                2004,
+                1046
+            ],
+            [
+                2005,
+                1356
+            ],
+            [
+                2006,
+                1695
+            ],
+            [
+                2007,
+                1777
+            ],
+            [
+                2008,
+                1620
+            ],
+            [
+                2009,
+                1668
+            ],
+            [
+                2010,
+                1838
+            ],
+            [
+                2011,
+                781
+            ],
+            [
+                2012,
+                1695
+            ],
+            [
+                2013,
+                1806
+            ],
+            [
+                2014,
+                1782
+            ],
+            [
+                2015,
+                2130
+            ],
+            [
+                2016,
+                2276
+            ],
+            [
+                2017,
+                2461
+            ],
+            [
+                2018,
+                2386
+            ],
+            [
+                2019,
+                2322
+            ],
+            [
+                2020,
+                1337
+            ]
+        ]
+    },
+    "NV0020300": {
+        "ori": "NV0020300",
+        "agency_name": "Henderson Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CLARK",
+        "nibrs": true,
+        "latitude": 36.03084,
+        "longitude": -114.98376,
+        "nibrs_start_date": "08/01/2020",
+        "violent_crime_counts": [
+            [
+                1985,
+                97
+            ],
+            [
+                1986,
+                101
+            ],
+            [
+                1987,
+                102
+            ],
+            [
+                1988,
+                111
+            ],
+            [
+                1989,
+                122
+            ],
+            [
+                1990,
+                186
+            ],
+            [
+                1991,
+                281
+            ],
+            [
+                1992,
+                284
+            ],
+            [
+                1993,
+                289
+            ],
+            [
+                1994,
+                388
+            ],
+            [
+                1995,
+                316
+            ],
+            [
+                1996,
+                322
+            ],
+            [
+                1997,
+                322
+            ],
+            [
+                1998,
+                553
+            ],
+            [
+                1999,
+                507
+            ],
+            [
+                2000,
+                465
+            ],
+            [
+                2001,
+                523
+            ],
+            [
+                2002,
+                454
+            ],
+            [
+                2003,
+                489
+            ],
+            [
+                2004,
+                455
+            ],
+            [
+                2005,
+                433
+            ],
+            [
+                2006,
+                588
+            ],
+            [
+                2007,
+                591
+            ],
+            [
+                2008,
+                529
+            ],
+            [
+                2009,
+                612
+            ],
+            [
+                2010,
+                543
+            ],
+            [
+                2011,
+                571
+            ],
+            [
+                2012,
+                445
+            ],
+            [
+                2013,
+                367
+            ],
+            [
+                2014,
+                452
+            ],
+            [
+                2015,
+                476
+            ],
+            [
+                2016,
+                617
+            ],
+            [
+                2017,
+                554
+            ],
+            [
+                2018,
+                582
+            ],
+            [
+                2019,
+                543
+            ],
+            [
+                2020,
+                682
+            ]
+        ]
+    },
+    "NV0020400": {
+        "ori": "NV0020400",
+        "agency_name": "Boulder City Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CLARK",
+        "nibrs": true,
+        "latitude": 35.978218,
+        "longitude": -114.83407,
+        "nibrs_start_date": "03/01/2020",
+        "violent_crime_counts": [
+            [
+                1985,
+                11
+            ],
+            [
+                1986,
+                10
+            ],
+            [
+                1987,
+                7
+            ],
+            [
+                1988,
+                8
+            ],
+            [
+                1989,
+                7
+            ],
+            [
+                1990,
+                12
+            ],
+            [
+                1991,
+                18
+            ],
+            [
+                1992,
+                39
+            ],
+            [
+                1993,
+                41
+            ],
+            [
+                1994,
+                45
+            ],
+            [
+                1995,
+                29
+            ],
+            [
+                1996,
+                28
+            ],
+            [
+                1997,
+                32
+            ],
+            [
+                1998,
+                24
+            ],
+            [
+                1999,
+                14
+            ],
+            [
+                2000,
+                27
+            ],
+            [
+                2001,
+                67
+            ],
+            [
+                2002,
+                61
+            ],
+            [
+                2003,
+                37
+            ],
+            [
+                2004,
+                13
+            ],
+            [
+                2005,
+                19
+            ],
+            [
+                2006,
+                19
+            ],
+            [
+                2007,
+                17
+            ],
+            [
+                2008,
+                9
+            ],
+            [
+                2009,
+                13
+            ],
+            [
+                2010,
+                14
+            ],
+            [
+                2011,
+                14
+            ],
+            [
+                2012,
+                12
+            ],
+            [
+                2013,
+                22
+            ],
+            [
+                2014,
+                16
+            ],
+            [
+                2015,
+                13
+            ],
+            [
+                2016,
+                19
+            ],
+            [
+                2017,
+                9
+            ],
+            [
+                2018,
+                13
+            ],
+            [
+                2019,
+                19
+            ],
+            [
+                2020,
+                23
+            ]
+        ]
+    },
+    "NV0020900": {
+        "ori": "NV0020900",
+        "agency_name": "Mesquite Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CLARK",
+        "nibrs": true,
+        "latitude": 36.804005,
+        "longitude": -114.06781,
+        "nibrs_start_date": "01/01/2020",
+        "violent_crime_counts": [
+            [
+                1991,
+                3
+            ],
+            [
+                1992,
+                12
+            ],
+            [
+                1993,
+                5
+            ],
+            [
+                1994,
+                41
+            ],
+            [
+                1995,
+                27
+            ],
+            [
+                1996,
+                73
+            ],
+            [
+                1997,
+                23
+            ],
+            [
+                1998,
+                15
+            ],
+            [
+                1999,
+                74
+            ],
+            [
+                2000,
+                24
+            ],
+            [
+                2001,
+                17
+            ],
+            [
+                2002,
+                14
+            ],
+            [
+                2003,
+                18
+            ],
+            [
+                2004,
+                14
+            ],
+            [
+                2005,
+                28
+            ],
+            [
+                2006,
+                31
+            ],
+            [
+                2007,
+                21
+            ],
+            [
+                2008,
+                23
+            ],
+            [
+                2009,
+                12
+            ],
+            [
+                2010,
+                29
+            ],
+            [
+                2011,
+                21
+            ],
+            [
+                2012,
+                17
+            ],
+            [
+                2013,
+                11
+            ],
+            [
+                2014,
+                24
+            ],
+            [
+                2015,
+                34
+            ],
+            [
+                2016,
+                22
+            ],
+            [
+                2017,
+                31
+            ],
+            [
+                2018,
+                32
+            ],
+            [
+                2019,
+                26
+            ],
+            [
+                2020,
+                21
+            ]
+        ]
+    },
+    "NV0021000": {
+        "ori": "NV0021000",
+        "agency_name": "University of Nevada: Las Vegas",
+        "agency_type_name": "University or College",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CLARK",
+        "nibrs": true,
+        "latitude": 36.107597,
+        "longitude": -115.1374,
+        "nibrs_start_date": "08/01/2020",
+        "violent_crime_counts": [
+            [
+                1990,
+                8
+            ],
+            [
+                1991,
+                9
+            ],
+            [
+                1992,
+                14
+            ],
+            [
+                1993,
+                7
+            ],
+            [
+                1994,
+                6
+            ],
+            [
+                1995,
+                10
+            ],
+            [
+                1996,
+                23
+            ],
+            [
+                1997,
+                6
+            ],
+            [
+                1998,
+                9
+            ],
+            [
+                1999,
+                13
+            ],
+            [
+                2000,
+                14
+            ],
+            [
+                2001,
+                16
+            ],
+            [
+                2002,
+                12
+            ],
+            [
+                2003,
+                13
+            ],
+            [
+                2004,
+                6
+            ],
+            [
+                2005,
+                13
+            ],
+            [
+                2006,
+                6
+            ],
+            [
+                2007,
+                8
+            ],
+            [
+                2008,
+                4
+            ],
+            [
+                2009,
+                7
+            ],
+            [
+                2010,
+                10
+            ],
+            [
+                2011,
+                8
+            ],
+            [
+                2012,
+                11
+            ],
+            [
+                2013,
+                7
+            ],
+            [
+                2014,
+                12
+            ],
+            [
+                2015,
+                17
+            ],
+            [
+                2016,
+                11
+            ],
+            [
+                2017,
+                16
+            ],
+            [
+                2018,
+                17
+            ],
+            [
+                2019,
+                20
+            ],
+            [
+                2020,
+                12
+            ]
+        ]
+    },
+    "NV0021500": {
+        "ori": "NV0021500",
+        "agency_name": "Las Vegas Fire and Rescue Arson Bomb Unit",
+        "agency_type_name": "Other",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CLARK",
+        "nibrs": false,
+        "latitude": 36.214236,
+        "longitude": -115.013819,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NV0021600": {
+        "ori": "NV0021600",
+        "agency_name": "Clark County School District",
+        "agency_type_name": "Other",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CLARK",
+        "nibrs": false,
+        "latitude": 36.036304,
+        "longitude": -115.03425,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                1994,
+                65
+            ],
+            [
+                1995,
+                66
+            ],
+            [
+                1996,
+                84
+            ],
+            [
+                1997,
+                103
+            ],
+            [
+                1998,
+                85
+            ],
+            [
+                1999,
+                80
+            ],
+            [
+                2000,
+                53
+            ],
+            [
+                2001,
+                61
+            ],
+            [
+                2002,
+                51
+            ],
+            [
+                2003,
+                88
+            ],
+            [
+                2004,
+                73
+            ],
+            [
+                2005,
+                91
+            ],
+            [
+                2006,
+                110
+            ],
+            [
+                2007,
+                115
+            ],
+            [
+                2008,
+                99
+            ],
+            [
+                2009,
+                78
+            ],
+            [
+                2010,
+                78
+            ],
+            [
+                2011,
+                65
+            ],
+            [
+                2012,
+                116
+            ],
+            [
+                2013,
+                142
+            ],
+            [
+                2014,
+                189
+            ],
+            [
+                2015,
+                155
+            ],
+            [
+                2016,
+                146
+            ],
+            [
+                2017,
+                244
+            ],
+            [
+                2018,
+                758
+            ],
+            [
+                2019,
+                314
+            ],
+            [
+                2020,
+                62
+            ]
+        ]
+    },
+    "NV0022000": {
+        "ori": "NV0022000",
+        "agency_name": "Las Vegas Paiute Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 36.185257,
+        "longitude": -115.13938,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                2006,
+                2
+            ],
+            [
+                2007,
+                2
+            ],
+            [
+                2008,
+                5
+            ],
+            [
+                2009,
+                1
+            ],
+            [
+                2010,
+                7
+            ],
+            [
+                2011,
+                3
+            ],
+            [
+                2012,
+                4
+            ],
+            [
+                2013,
+                1
+            ],
+            [
+                2014,
+                2
+            ],
+            [
+                2015,
+                1
+            ],
+            [
+                2016,
+                1
+            ],
+            [
+                2017,
+                2
+            ],
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                1
+            ],
+            [
+                2020,
+                1
+            ]
+        ]
+    },
+    "NV002300X": {
+        "ori": "NV002300X",
+        "agency_name": "Secretary of State Securities Division Enforcement Section",
+        "agency_type_name": "Other State Agency",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CLARK",
+        "nibrs": false,
+        "latitude": null,
+        "longitude": null,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NV0029900": {
+        "ori": "NV0029900",
+        "agency_name": "Highway Patrol: Southern Division",
+        "agency_type_name": "State Police",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": true,
+        "latitude": 36.214236,
+        "longitude": -115.013819,
+        "nibrs_start_date": "07/01/2020",
+        "violent_crime_counts": [
+            [
+                2016,
+                3
+            ],
+            [
+                2017,
+                1
+            ],
+            [
+                2018,
+                3
+            ],
+            [
+                2019,
+                2
+            ],
+            [
+                2020,
+                34
+            ]
+        ]
+    },
+    "NV0030000": {
+        "ori": "NV0030000",
+        "agency_name": "Douglas County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "DOUGLAS",
+        "nibrs": true,
+        "latitude": 38.905129,
+        "longitude": -119.609019,
+        "nibrs_start_date": "12/01/2020",
+        "violent_crime_counts": [
+            [
+                1985,
+                47
+            ],
+            [
+                1994,
+                152
+            ],
+            [
+                1995,
+                129
+            ],
+            [
+                1996,
+                54
+            ],
+            [
+                1997,
+                46
+            ],
+            [
+                1998,
+                46
+            ],
+            [
+                1999,
+                50
+            ],
+            [
+                2000,
+                70
+            ],
+            [
+                2001,
+                57
+            ],
+            [
+                2002,
+                58
+            ],
+            [
+                2003,
+                54
+            ],
+            [
+                2004,
+                71
+            ],
+            [
+                2005,
+                82
+            ],
+            [
+                2006,
+                87
+            ],
+            [
+                2007,
+                69
+            ],
+            [
+                2008,
+                62
+            ],
+            [
+                2009,
+                107
+            ],
+            [
+                2010,
+                61
+            ],
+            [
+                2011,
+                59
+            ],
+            [
+                2012,
+                53
+            ],
+            [
+                2013,
+                66
+            ],
+            [
+                2014,
+                78
+            ],
+            [
+                2015,
+                69
+            ],
+            [
+                2016,
+                67
+            ],
+            [
+                2017,
+                65
+            ],
+            [
+                2018,
+                64
+            ],
+            [
+                2019,
+                62
+            ],
+            [
+                2020,
+                54
+            ]
+        ]
+    },
+    "NV0031000": {
+        "ori": "NV0031000",
+        "agency_name": "Washoe Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 38.90504,
+        "longitude": -119.706215,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2006,
+                74
+            ],
+            [
+                2007,
+                32
+            ],
+            [
+                2008,
+                16
+            ],
+            [
+                2009,
+                5
+            ],
+            [
+                2010,
+                9
+            ],
+            [
+                2011,
+                36
+            ],
+            [
+                2012,
+                39
+            ],
+            [
+                2013,
+                30
+            ],
+            [
+                2014,
+                21
+            ],
+            [
+                2015,
+                21
+            ],
+            [
+                2016,
+                9
+            ],
+            [
+                2017,
+                2
+            ],
+            [
+                2018,
+                3
+            ],
+            [
+                2019,
+                20
+            ]
+        ]
+    },
+    "NV0040000": {
+        "ori": "NV0040000",
+        "agency_name": "Elko County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "ELKO",
+        "nibrs": true,
+        "latitude": 40.83335,
+        "longitude": -115.75857,
+        "nibrs_start_date": "07/01/2020",
+        "violent_crime_counts": [
+            [
+                1985,
+                3
+            ],
+            [
+                1986,
+                7
+            ],
+            [
+                1987,
+                20
+            ],
+            [
+                1989,
+                7
+            ],
+            [
+                1990,
+                26
+            ],
+            [
+                1991,
+                30
+            ],
+            [
+                1992,
+                18
+            ],
+            [
+                1993,
+                38
+            ],
+            [
+                1994,
+                141
+            ],
+            [
+                1995,
+                136
+            ],
+            [
+                1996,
+                125
+            ],
+            [
+                1997,
+                104
+            ],
+            [
+                1998,
+                89
+            ],
+            [
+                1999,
+                77
+            ],
+            [
+                2000,
+                103
+            ],
+            [
+                2001,
+                35
+            ],
+            [
+                2002,
+                30
+            ],
+            [
+                2003,
+                32
+            ],
+            [
+                2004,
+                24
+            ],
+            [
+                2005,
+                30
+            ],
+            [
+                2006,
+                19
+            ],
+            [
+                2007,
+                25
+            ],
+            [
+                2008,
+                24
+            ],
+            [
+                2009,
+                25
+            ],
+            [
+                2010,
+                12
+            ],
+            [
+                2011,
+                36
+            ],
+            [
+                2012,
+                39
+            ],
+            [
+                2013,
+                24
+            ],
+            [
+                2014,
+                36
+            ],
+            [
+                2015,
+                36
+            ],
+            [
+                2016,
+                48
+            ],
+            [
+                2017,
+                38
+            ],
+            [
+                2018,
+                55
+            ],
+            [
+                2019,
+                57
+            ],
+            [
+                2020,
+                86
+            ]
+        ]
+    },
+    "NV0040100": {
+        "ori": "NV0040100",
+        "agency_name": "Elko Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "ELKO",
+        "nibrs": false,
+        "latitude": 40.841106,
+        "longitude": -115.75706,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                1986,
+                1
+            ],
+            [
+                1996,
+                67
+            ],
+            [
+                1997,
+                77
+            ],
+            [
+                1998,
+                64
+            ],
+            [
+                1999,
+                43
+            ],
+            [
+                2000,
+                45
+            ],
+            [
+                2001,
+                44
+            ],
+            [
+                2002,
+                37
+            ],
+            [
+                2003,
+                29
+            ],
+            [
+                2004,
+                36
+            ],
+            [
+                2005,
+                36
+            ],
+            [
+                2006,
+                47
+            ],
+            [
+                2007,
+                46
+            ],
+            [
+                2008,
+                71
+            ],
+            [
+                2009,
+                88
+            ],
+            [
+                2010,
+                74
+            ],
+            [
+                2011,
+                125
+            ],
+            [
+                2012,
+                118
+            ],
+            [
+                2013,
+                89
+            ],
+            [
+                2014,
+                69
+            ],
+            [
+                2015,
+                85
+            ],
+            [
+                2016,
+                95
+            ],
+            [
+                2017,
+                81
+            ],
+            [
+                2018,
+                95
+            ],
+            [
+                2019,
+                69
+            ],
+            [
+                2020,
+                99
+            ]
+        ]
+    },
+    "NV0040200": {
+        "ori": "NV0040200",
+        "agency_name": "Carlin Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "ELKO",
+        "nibrs": true,
+        "latitude": 41.141133,
+        "longitude": -115.351424,
+        "nibrs_start_date": "10/01/2020",
+        "violent_crime_counts": [
+            [
+                1985,
+                3
+            ],
+            [
+                1986,
+                5
+            ],
+            [
+                1987,
+                2
+            ],
+            [
+                1988,
+                16
+            ],
+            [
+                1989,
+                10
+            ],
+            [
+                1990,
+                14
+            ],
+            [
+                1991,
+                6
+            ],
+            [
+                1992,
+                14
+            ],
+            [
+                1993,
+                7
+            ],
+            [
+                1994,
+                13
+            ],
+            [
+                1995,
+                14
+            ],
+            [
+                1996,
+                5
+            ],
+            [
+                1997,
+                15
+            ],
+            [
+                1998,
+                9
+            ],
+            [
+                1999,
+                11
+            ],
+            [
+                2000,
+                14
+            ],
+            [
+                2001,
+                14
+            ],
+            [
+                2002,
+                10
+            ],
+            [
+                2003,
+                12
+            ],
+            [
+                2004,
+                6
+            ],
+            [
+                2005,
+                23
+            ],
+            [
+                2006,
+                31
+            ],
+            [
+                2007,
+                26
+            ],
+            [
+                2008,
+                17
+            ],
+            [
+                2009,
+                11
+            ],
+            [
+                2010,
+                6
+            ],
+            [
+                2011,
+                1
+            ],
+            [
+                2012,
+                7
+            ],
+            [
+                2013,
+                16
+            ],
+            [
+                2014,
+                18
+            ],
+            [
+                2015,
+                21
+            ],
+            [
+                2016,
+                19
+            ],
+            [
+                2017,
+                23
+            ],
+            [
+                2018,
+                35
+            ],
+            [
+                2019,
+                15
+            ],
+            [
+                2020,
+                8
+            ]
+        ]
+    },
+    "NV0040500": {
+        "ori": "NV0040500",
+        "agency_name": "West Wendover Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "ELKO",
+        "nibrs": false,
+        "latitude": 41.141133,
+        "longitude": -115.351424,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                1995,
+                24
+            ],
+            [
+                1996,
+                25
+            ],
+            [
+                1997,
+                26
+            ],
+            [
+                1998,
+                26
+            ],
+            [
+                1999,
+                16
+            ],
+            [
+                2000,
+                17
+            ],
+            [
+                2001,
+                9
+            ],
+            [
+                2002,
+                16
+            ],
+            [
+                2003,
+                16
+            ],
+            [
+                2004,
+                15
+            ],
+            [
+                2005,
+                34
+            ],
+            [
+                2006,
+                17
+            ],
+            [
+                2007,
+                12
+            ],
+            [
+                2008,
+                17
+            ],
+            [
+                2009,
+                29
+            ],
+            [
+                2010,
+                19
+            ],
+            [
+                2011,
+                20
+            ],
+            [
+                2012,
+                20
+            ],
+            [
+                2013,
+                23
+            ],
+            [
+                2014,
+                121
+            ],
+            [
+                2015,
+                23
+            ],
+            [
+                2016,
+                24
+            ],
+            [
+                2017,
+                27
+            ],
+            [
+                2018,
+                42
+            ],
+            [
+                2019,
+                25
+            ],
+            [
+                2020,
+                37
+            ]
+        ]
+    },
+    "NV0049900": {
+        "ori": "NV0049900",
+        "agency_name": "Highway Patrol: Northeastern Division",
+        "agency_type_name": "State Police",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": true,
+        "latitude": 41.141133,
+        "longitude": -115.351424,
+        "nibrs_start_date": "07/01/2020",
+        "violent_crime_counts": [
+            [
+                2016,
+                0
+            ],
+            [
+                2017,
+                0
+            ],
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NV0050000": {
+        "ori": "NV0050000",
+        "agency_name": "Esmeralda County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "ESMERALDA",
+        "nibrs": false,
+        "latitude": 37.778966,
+        "longitude": -117.632382,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                1985,
+                0
+            ],
+            [
+                1986,
+                6
+            ],
+            [
+                1987,
+                1
+            ],
+            [
+                1988,
+                4
+            ],
+            [
+                1989,
+                12
+            ],
+            [
+                1990,
+                5
+            ],
+            [
+                1991,
+                9
+            ],
+            [
+                1992,
+                2
+            ],
+            [
+                1993,
+                3
+            ],
+            [
+                1994,
+                3
+            ],
+            [
+                1995,
+                7
+            ],
+            [
+                1996,
+                5
+            ],
+            [
+                1997,
+                4
+            ],
+            [
+                1998,
+                3
+            ],
+            [
+                1999,
+                4
+            ],
+            [
+                2000,
+                1
+            ],
+            [
+                2001,
+                4
+            ],
+            [
+                2002,
+                1
+            ],
+            [
+                2003,
+                6
+            ],
+            [
+                2004,
+                5
+            ],
+            [
+                2005,
+                2
+            ],
+            [
+                2006,
+                3
+            ],
+            [
+                2007,
+                1
+            ],
+            [
+                2008,
+                3
+            ],
+            [
+                2009,
+                4
+            ],
+            [
+                2010,
+                2
+            ],
+            [
+                2011,
+                1
+            ],
+            [
+                2012,
+                2
+            ],
+            [
+                2013,
+                2
+            ],
+            [
+                2014,
+                1
+            ],
+            [
+                2015,
+                0
+            ],
+            [
+                2016,
+                1
+            ],
+            [
+                2017,
+                0
+            ],
+            [
+                2018,
+                1
+            ],
+            [
+                2019,
+                6
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NV0060000": {
+        "ori": "NV0060000",
+        "agency_name": "Eureka County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "EUREKA",
+        "nibrs": false,
+        "latitude": 39.977788,
+        "longitude": -116.272208,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                1985,
+                5
+            ],
+            [
+                1988,
+                11
+            ],
+            [
+                1989,
+                27
+            ],
+            [
+                1990,
+                18
+            ],
+            [
+                1991,
+                9
+            ],
+            [
+                1994,
+                3
+            ],
+            [
+                1996,
+                17
+            ],
+            [
+                1997,
+                24
+            ],
+            [
+                1998,
+                12
+            ],
+            [
+                1999,
+                12
+            ],
+            [
+                2000,
+                10
+            ],
+            [
+                2001,
+                16
+            ],
+            [
+                2002,
+                5
+            ],
+            [
+                2003,
+                6
+            ],
+            [
+                2004,
+                9
+            ],
+            [
+                2005,
+                4
+            ],
+            [
+                2006,
+                6
+            ],
+            [
+                2007,
+                9
+            ],
+            [
+                2008,
+                6
+            ],
+            [
+                2009,
+                9
+            ],
+            [
+                2010,
+                8
+            ],
+            [
+                2011,
+                13
+            ],
+            [
+                2012,
+                6
+            ],
+            [
+                2013,
+                8
+            ],
+            [
+                2014,
+                8
+            ],
+            [
+                2015,
+                8
+            ],
+            [
+                2016,
+                6
+            ],
+            [
+                2017,
+                6
+            ],
+            [
+                2018,
+                5
+            ],
+            [
+                2019,
+                22
+            ],
+            [
+                2020,
+                3
+            ]
+        ]
+    },
+    "NV0070000": {
+        "ori": "NV0070000",
+        "agency_name": "Humboldt County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "HUMBOLDT",
+        "nibrs": false,
+        "latitude": 40.971798,
+        "longitude": -117.73327,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                1985,
+                20
+            ],
+            [
+                1986,
+                18
+            ],
+            [
+                1987,
+                12
+            ],
+            [
+                1988,
+                17
+            ],
+            [
+                1989,
+                13
+            ],
+            [
+                1990,
+                36
+            ],
+            [
+                1991,
+                52
+            ],
+            [
+                1992,
+                49
+            ],
+            [
+                1993,
+                71
+            ],
+            [
+                1994,
+                69
+            ],
+            [
+                1995,
+                77
+            ],
+            [
+                1996,
+                15
+            ],
+            [
+                1997,
+                24
+            ],
+            [
+                1998,
+                11
+            ],
+            [
+                1999,
+                18
+            ],
+            [
+                2000,
+                30
+            ],
+            [
+                2001,
+                48
+            ],
+            [
+                2002,
+                53
+            ],
+            [
+                2003,
+                45
+            ],
+            [
+                2004,
+                33
+            ],
+            [
+                2005,
+                54
+            ],
+            [
+                2006,
+                51
+            ],
+            [
+                2007,
+                63
+            ],
+            [
+                2008,
+                59
+            ],
+            [
+                2009,
+                51
+            ],
+            [
+                2010,
+                50
+            ],
+            [
+                2011,
+                38
+            ],
+            [
+                2012,
+                39
+            ],
+            [
+                2013,
+                51
+            ],
+            [
+                2014,
+                47
+            ],
+            [
+                2015,
+                36
+            ],
+            [
+                2016,
+                29
+            ],
+            [
+                2017,
+                15
+            ],
+            [
+                2018,
+                26
+            ],
+            [
+                2019,
+                26
+            ],
+            [
+                2020,
+                28
+            ]
+        ]
+    },
+    "NV0070100": {
+        "ori": "NV0070100",
+        "agency_name": "Winnemucca Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "HUMBOLDT",
+        "nibrs": false,
+        "latitude": 41.407914,
+        "longitude": -118.127591,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                1985,
+                3
+            ],
+            [
+                1986,
+                41
+            ],
+            [
+                1987,
+                58
+            ],
+            [
+                1988,
+                51
+            ],
+            [
+                1989,
+                38
+            ],
+            [
+                1990,
+                31
+            ],
+            [
+                1991,
+                25
+            ],
+            [
+                1992,
+                20
+            ],
+            [
+                1993,
+                21
+            ],
+            [
+                1994,
+                37
+            ],
+            [
+                1995,
+                12
+            ],
+            [
+                1996,
+                32
+            ],
+            [
+                1997,
+                16
+            ],
+            [
+                1998,
+                20
+            ],
+            [
+                1999,
+                16
+            ],
+            [
+                2000,
+                23
+            ],
+            [
+                2001,
+                18
+            ],
+            [
+                2002,
+                11
+            ],
+            [
+                2003,
+                22
+            ],
+            [
+                2004,
+                16
+            ],
+            [
+                2005,
+                22
+            ],
+            [
+                2006,
+                18
+            ],
+            [
+                2007,
+                28
+            ],
+            [
+                2008,
+                22
+            ],
+            [
+                2009,
+                28
+            ],
+            [
+                2010,
+                12
+            ],
+            [
+                2011,
+                9
+            ],
+            [
+                2012,
+                10
+            ],
+            [
+                2013,
+                17
+            ],
+            [
+                2014,
+                10
+            ],
+            [
+                2015,
+                18
+            ],
+            [
+                2016,
+                28
+            ],
+            [
+                2017,
+                41
+            ],
+            [
+                2018,
+                10
+            ],
+            [
+                2019,
+                8
+            ],
+            [
+                2020,
+                28
+            ]
+        ]
+    },
+    "NV0080000": {
+        "ori": "NV0080000",
+        "agency_name": "Lander County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "LANDER",
+        "nibrs": false,
+        "latitude": 39.90021,
+        "longitude": -117.04724,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                1985,
+                1
+            ],
+            [
+                1987,
+                0
+            ],
+            [
+                1988,
+                4
+            ],
+            [
+                1989,
+                14
+            ],
+            [
+                1990,
+                21
+            ],
+            [
+                1991,
+                13
+            ],
+            [
+                1992,
+                4
+            ],
+            [
+                1993,
+                0
+            ],
+            [
+                1994,
+                5
+            ],
+            [
+                1995,
+                13
+            ],
+            [
+                1996,
+                4
+            ],
+            [
+                1997,
+                9
+            ],
+            [
+                1998,
+                16
+            ],
+            [
+                1999,
+                51
+            ],
+            [
+                2000,
+                36
+            ],
+            [
+                2001,
+                42
+            ],
+            [
+                2002,
+                33
+            ],
+            [
+                2003,
+                32
+            ],
+            [
+                2004,
+                42
+            ],
+            [
+                2005,
+                22
+            ],
+            [
+                2006,
+                43
+            ],
+            [
+                2007,
+                41
+            ],
+            [
+                2008,
+                49
+            ],
+            [
+                2009,
+                23
+            ],
+            [
+                2010,
+                43
+            ],
+            [
+                2011,
+                22
+            ],
+            [
+                2012,
+                40
+            ],
+            [
+                2013,
+                47
+            ],
+            [
+                2014,
+                35
+            ],
+            [
+                2015,
+                35
+            ],
+            [
+                2016,
+                40
+            ],
+            [
+                2017,
+                49
+            ],
+            [
+                2018,
+                53
+            ],
+            [
+                2019,
+                62
+            ],
+            [
+                2020,
+                50
+            ]
+        ]
+    },
+    "NV0090000": {
+        "ori": "NV0090000",
+        "agency_name": "Lincoln County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "LINCOLN",
+        "nibrs": false,
+        "latitude": 37.634605,
+        "longitude": -114.863037,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                1985,
+                5
+            ],
+            [
+                1986,
+                9
+            ],
+            [
+                1987,
+                3
+            ],
+            [
+                1988,
+                3
+            ],
+            [
+                1989,
+                8
+            ],
+            [
+                1990,
+                9
+            ],
+            [
+                1991,
+                3
+            ],
+            [
+                1992,
+                17
+            ],
+            [
+                1993,
+                1
+            ],
+            [
+                1994,
+                1
+            ],
+            [
+                1995,
+                3
+            ],
+            [
+                1996,
+                3
+            ],
+            [
+                1997,
+                5
+            ],
+            [
+                1998,
+                8
+            ],
+            [
+                1999,
+                7
+            ],
+            [
+                2000,
+                4
+            ],
+            [
+                2001,
+                6
+            ],
+            [
+                2002,
+                4
+            ],
+            [
+                2003,
+                2
+            ],
+            [
+                2004,
+                7
+            ],
+            [
+                2005,
+                4
+            ],
+            [
+                2006,
+                4
+            ],
+            [
+                2007,
+                2
+            ],
+            [
+                2008,
+                6
+            ],
+            [
+                2009,
+                2
+            ],
+            [
+                2010,
+                7
+            ],
+            [
+                2011,
+                9
+            ],
+            [
+                2012,
+                2
+            ],
+            [
+                2013,
+                4
+            ],
+            [
+                2014,
+                1
+            ],
+            [
+                2015,
+                4
+            ],
+            [
+                2016,
+                3
+            ],
+            [
+                2017,
+                5
+            ],
+            [
+                2018,
+                13
+            ],
+            [
+                2019,
+                7
+            ],
+            [
+                2020,
+                1
+            ]
+        ]
+    },
+    "NV0100000": {
+        "ori": "NV0100000",
+        "agency_name": "Lyon County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "LYON",
+        "nibrs": true,
+        "latitude": 38.995132,
+        "longitude": -119.16177,
+        "nibrs_start_date": "07/01/2020",
+        "violent_crime_counts": [
+            [
+                1985,
+                40
+            ],
+            [
+                1986,
+                83
+            ],
+            [
+                1987,
+                111
+            ],
+            [
+                1988,
+                95
+            ],
+            [
+                1989,
+                37
+            ],
+            [
+                1990,
+                11
+            ],
+            [
+                1994,
+                165
+            ],
+            [
+                1995,
+                99
+            ],
+            [
+                1996,
+                77
+            ],
+            [
+                1997,
+                103
+            ],
+            [
+                1998,
+                70
+            ],
+            [
+                1999,
+                60
+            ],
+            [
+                2000,
+                91
+            ],
+            [
+                2001,
+                86
+            ],
+            [
+                2002,
+                71
+            ],
+            [
+                2003,
+                94
+            ],
+            [
+                2004,
+                95
+            ],
+            [
+                2005,
+                114
+            ],
+            [
+                2006,
+                85
+            ],
+            [
+                2007,
+                84
+            ],
+            [
+                2008,
+                83
+            ],
+            [
+                2009,
+                111
+            ],
+            [
+                2010,
+                95
+            ],
+            [
+                2011,
+                84
+            ],
+            [
+                2012,
+                141
+            ],
+            [
+                2013,
+                124
+            ],
+            [
+                2014,
+                140
+            ],
+            [
+                2015,
+                132
+            ],
+            [
+                2016,
+                137
+            ],
+            [
+                2017,
+                129
+            ],
+            [
+                2018,
+                159
+            ],
+            [
+                2019,
+                179
+            ],
+            [
+                2020,
+                153
+            ]
+        ]
+    },
+    "NV0100100": {
+        "ori": "NV0100100",
+        "agency_name": "Yerington Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "LYON",
+        "nibrs": false,
+        "latitude": 38.995132,
+        "longitude": -119.16177,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                1985,
+                9
+            ],
+            [
+                1986,
+                6
+            ],
+            [
+                1987,
+                9
+            ],
+            [
+                1988,
+                10
+            ],
+            [
+                1989,
+                6
+            ],
+            [
+                1990,
+                1
+            ],
+            [
+                1994,
+                11
+            ],
+            [
+                1995,
+                0
+            ],
+            [
+                1996,
+                4
+            ],
+            [
+                1997,
+                6
+            ],
+            [
+                1998,
+                9
+            ],
+            [
+                1999,
+                8
+            ],
+            [
+                2000,
+                6
+            ],
+            [
+                2001,
+                4
+            ],
+            [
+                2002,
+                9
+            ],
+            [
+                2003,
+                4
+            ],
+            [
+                2004,
+                1
+            ],
+            [
+                2005,
+                2
+            ],
+            [
+                2006,
+                0
+            ],
+            [
+                2007,
+                0
+            ],
+            [
+                2008,
+                0
+            ],
+            [
+                2009,
+                14
+            ],
+            [
+                2010,
+                23
+            ],
+            [
+                2011,
+                26
+            ],
+            [
+                2012,
+                12
+            ],
+            [
+                2013,
+                4
+            ],
+            [
+                2014,
+                4
+            ],
+            [
+                2015,
+                2
+            ],
+            [
+                2016,
+                2
+            ],
+            [
+                2017,
+                4
+            ],
+            [
+                2018,
+                5
+            ],
+            [
+                2019,
+                6
+            ],
+            [
+                2020,
+                1
+            ]
+        ]
+    },
+    "NV0100200": {
+        "ori": "NV0100200",
+        "agency_name": "Yerington Paiute Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 39.06985,
+        "longitude": -119.21024,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2006,
+                4
+            ],
+            [
+                2007,
+                5
+            ],
+            [
+                2008,
+                22
+            ],
+            [
+                2009,
+                2
+            ],
+            [
+                2010,
+                2
+            ],
+            [
+                2011,
+                9
+            ],
+            [
+                2012,
+                5
+            ],
+            [
+                2013,
+                3
+            ],
+            [
+                2014,
+                1
+            ],
+            [
+                2015,
+                3
+            ],
+            [
+                2018,
+                5
+            ],
+            [
+                2019,
+                2
+            ]
+        ]
+    },
+    "NV0110000": {
+        "ori": "NV0110000",
+        "agency_name": "Mineral County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "MINERAL",
+        "nibrs": true,
+        "latitude": 38.516647,
+        "longitude": -118.416279,
+        "nibrs_start_date": "08/01/2020",
+        "violent_crime_counts": [
+            [
+                1985,
+                13
+            ],
+            [
+                1986,
+                11
+            ],
+            [
+                1988,
+                39
+            ],
+            [
+                1989,
+                56
+            ],
+            [
+                1990,
+                75
+            ],
+            [
+                1991,
+                55
+            ],
+            [
+                1992,
+                63
+            ],
+            [
+                1993,
+                95
+            ],
+            [
+                1994,
+                52
+            ],
+            [
+                1995,
+                41
+            ],
+            [
+                1996,
+                23
+            ],
+            [
+                1997,
+                24
+            ],
+            [
+                1998,
+                16
+            ],
+            [
+                1999,
+                16
+            ],
+            [
+                2000,
+                10
+            ],
+            [
+                2001,
+                18
+            ],
+            [
+                2002,
+                6
+            ],
+            [
+                2003,
+                2
+            ],
+            [
+                2004,
+                5
+            ],
+            [
+                2005,
+                8
+            ],
+            [
+                2006,
+                7
+            ],
+            [
+                2007,
+                15
+            ],
+            [
+                2008,
+                15
+            ],
+            [
+                2009,
+                32
+            ],
+            [
+                2010,
+                22
+            ],
+            [
+                2011,
+                2
+            ],
+            [
+                2012,
+                9
+            ],
+            [
+                2013,
+                0
+            ],
+            [
+                2015,
+                46
+            ],
+            [
+                2016,
+                6
+            ],
+            [
+                2017,
+                0
+            ],
+            [
+                2018,
+                2
+            ],
+            [
+                2019,
+                4
+            ],
+            [
+                2020,
+                4
+            ]
+        ]
+    },
+    "NV0120000": {
+        "ori": "NV0120000",
+        "agency_name": "Nye County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "NYE",
+        "nibrs": true,
+        "latitude": 36.21959,
+        "longitude": -116.04245,
+        "nibrs_start_date": "06/01/2020",
+        "violent_crime_counts": [
+            [
+                1990,
+                31
+            ],
+            [
+                1991,
+                8
+            ],
+            [
+                1994,
+                188
+            ],
+            [
+                1995,
+                83
+            ],
+            [
+                1996,
+                113
+            ],
+            [
+                1997,
+                134
+            ],
+            [
+                1998,
+                95
+            ],
+            [
+                1999,
+                74
+            ],
+            [
+                2000,
+                107
+            ],
+            [
+                2001,
+                87
+            ],
+            [
+                2002,
+                132
+            ],
+            [
+                2003,
+                102
+            ],
+            [
+                2004,
+                102
+            ],
+            [
+                2005,
+                110
+            ],
+            [
+                2006,
+                124
+            ],
+            [
+                2007,
+                117
+            ],
+            [
+                2008,
+                124
+            ],
+            [
+                2009,
+                175
+            ],
+            [
+                2010,
+                334
+            ],
+            [
+                2011,
+                155
+            ],
+            [
+                2012,
+                258
+            ],
+            [
+                2013,
+                154
+            ],
+            [
+                2014,
+                61
+            ],
+            [
+                2015,
+                44
+            ],
+            [
+                2016,
+                80
+            ],
+            [
+                2017,
+                61
+            ],
+            [
+                2018,
+                62
+            ],
+            [
+                2019,
+                117
+            ],
+            [
+                2020,
+                168
+            ]
+        ]
+    },
+    "NV0130000": {
+        "ori": "NV0130000",
+        "agency_name": "Carson City County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CARSON CITY",
+        "nibrs": true,
+        "latitude": 39.164536,
+        "longitude": -119.75977,
+        "nibrs_start_date": "01/01/2020",
+        "violent_crime_counts": [
+            [
+                1988,
+                158
+            ],
+            [
+                1989,
+                113
+            ],
+            [
+                1990,
+                8
+            ],
+            [
+                1992,
+                357
+            ],
+            [
+                1993,
+                631
+            ],
+            [
+                1994,
+                240
+            ],
+            [
+                1995,
+                277
+            ],
+            [
+                1996,
+                220
+            ],
+            [
+                1997,
+                247
+            ],
+            [
+                1998,
+                211
+            ],
+            [
+                1999,
+                206
+            ],
+            [
+                2000,
+                207
+            ],
+            [
+                2001,
+                310
+            ],
+            [
+                2002,
+                304
+            ],
+            [
+                2003,
+                265
+            ],
+            [
+                2004,
+                293
+            ],
+            [
+                2005,
+                294
+            ],
+            [
+                2006,
+                195
+            ],
+            [
+                2007,
+                206
+            ],
+            [
+                2008,
+                231
+            ],
+            [
+                2009,
+                180
+            ],
+            [
+                2010,
+                162
+            ],
+            [
+                2011,
+                148
+            ],
+            [
+                2012,
+                132
+            ],
+            [
+                2013,
+                133
+            ],
+            [
+                2014,
+                160
+            ],
+            [
+                2015,
+                172
+            ],
+            [
+                2016,
+                154
+            ],
+            [
+                2017,
+                191
+            ],
+            [
+                2018,
+                198
+            ],
+            [
+                2019,
+                164
+            ],
+            [
+                2020,
+                216
+            ]
+        ]
+    },
+    "NV0131100": {
+        "ori": "NV0131100",
+        "agency_name": "Department of Public Safety Investigative Division",
+        "agency_type_name": "Other State Agency",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": true,
+        "latitude": 39.153338,
+        "longitude": -119.743686,
+        "nibrs_start_date": "05/01/2020",
+        "violent_crime_counts": [
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                8
+            ]
+        ]
+    },
+    "NV0131300": {
+        "ori": "NV0131300",
+        "agency_name": "State Fire Marshal",
+        "agency_type_name": "Other State Agency",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 39.153338,
+        "longitude": -119.743686,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NV0131500": {
+        "ori": "NV0131500",
+        "agency_name": "Capitol Police",
+        "agency_type_name": "Other State Agency",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "CARSON CITY",
+        "nibrs": true,
+        "latitude": 39.153338,
+        "longitude": -119.743686,
+        "nibrs_start_date": "06/01/2020",
+        "violent_crime_counts": [
+            [
+                2016,
+                3
+            ],
+            [
+                2017,
+                7
+            ],
+            [
+                2018,
+                1
+            ],
+            [
+                2019,
+                14
+            ],
+            [
+                2020,
+                9
+            ]
+        ]
+    },
+    "NV0140000": {
+        "ori": "NV0140000",
+        "agency_name": "Pershing County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "PERSHING",
+        "nibrs": false,
+        "latitude": 40.439639,
+        "longitude": -118.409477,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                1985,
+                4
+            ],
+            [
+                1986,
+                6
+            ],
+            [
+                1987,
+                16
+            ],
+            [
+                1988,
+                13
+            ],
+            [
+                1989,
+                16
+            ],
+            [
+                1990,
+                19
+            ],
+            [
+                1991,
+                30
+            ],
+            [
+                1992,
+                18
+            ],
+            [
+                1993,
+                13
+            ],
+            [
+                1994,
+                26
+            ],
+            [
+                1995,
+                0
+            ],
+            [
+                1996,
+                5
+            ],
+            [
+                1997,
+                6
+            ],
+            [
+                1998,
+                14
+            ],
+            [
+                1999,
+                45
+            ],
+            [
+                2000,
+                14
+            ],
+            [
+                2001,
+                25
+            ],
+            [
+                2002,
+                15
+            ],
+            [
+                2003,
+                29
+            ],
+            [
+                2004,
+                37
+            ],
+            [
+                2005,
+                51
+            ],
+            [
+                2006,
+                73
+            ],
+            [
+                2007,
+                38
+            ],
+            [
+                2008,
+                33
+            ],
+            [
+                2009,
+                20
+            ],
+            [
+                2010,
+                25
+            ],
+            [
+                2011,
+                9
+            ],
+            [
+                2012,
+                47
+            ],
+            [
+                2013,
+                32
+            ],
+            [
+                2014,
+                23
+            ],
+            [
+                2015,
+                16
+            ],
+            [
+                2016,
+                29
+            ],
+            [
+                2017,
+                25
+            ],
+            [
+                2018,
+                36
+            ],
+            [
+                2019,
+                26
+            ],
+            [
+                2020,
+                49
+            ]
+        ]
+    },
+    "NV0140100": {
+        "ori": "NV0140100",
+        "agency_name": "Lovelock Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "PERSHING",
+        "nibrs": false,
+        "latitude": 40.439639,
+        "longitude": -118.409477,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                1985,
+                8
+            ],
+            [
+                1986,
+                12
+            ],
+            [
+                1987,
+                1
+            ],
+            [
+                1988,
+                15
+            ],
+            [
+                1989,
+                5
+            ],
+            [
+                1990,
+                3
+            ],
+            [
+                1991,
+                5
+            ],
+            [
+                1992,
+                8
+            ],
+            [
+                1993,
+                8
+            ],
+            [
+                1994,
+                10
+            ],
+            [
+                1995,
+                12
+            ],
+            [
+                1996,
+                16
+            ],
+            [
+                1997,
+                12
+            ],
+            [
+                1998,
+                8
+            ],
+            [
+                1999,
+                12
+            ],
+            [
+                2000,
+                16
+            ],
+            [
+                2001,
+                12
+            ],
+            [
+                2002,
+                9
+            ],
+            [
+                2003,
+                12
+            ],
+            [
+                2004,
+                21
+            ],
+            [
+                2005,
+                10
+            ],
+            [
+                2006,
+                8
+            ],
+            [
+                2007,
+                14
+            ],
+            [
+                2008,
+                17
+            ],
+            [
+                2009,
+                8
+            ],
+            [
+                2010,
+                14
+            ],
+            [
+                2011,
+                22
+            ],
+            [
+                2012,
+                32
+            ],
+            [
+                2013,
+                19
+            ],
+            [
+                2014,
+                20
+            ],
+            [
+                2015,
+                12
+            ],
+            [
+                2016,
+                25
+            ],
+            [
+                2017,
+                14
+            ],
+            [
+                2018,
+                11
+            ],
+            [
+                2019,
+                6
+            ],
+            [
+                2020,
+                3
+            ]
+        ]
+    },
+    "NV0150000": {
+        "ori": "NV0150000",
+        "agency_name": "Storey County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "STOREY",
+        "nibrs": false,
+        "latitude": 39.438385,
+        "longitude": -119.524646,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                1985,
+                8
+            ],
+            [
+                1986,
+                8
+            ],
+            [
+                1987,
+                4
+            ],
+            [
+                1988,
+                8
+            ],
+            [
+                1989,
+                9
+            ],
+            [
+                1990,
+                8
+            ],
+            [
+                1991,
+                12
+            ],
+            [
+                1992,
+                9
+            ],
+            [
+                1993,
+                4
+            ],
+            [
+                1994,
+                16
+            ],
+            [
+                1995,
+                13
+            ],
+            [
+                1996,
+                8
+            ],
+            [
+                1997,
+                17
+            ],
+            [
+                1998,
+                9
+            ],
+            [
+                1999,
+                3
+            ],
+            [
+                2000,
+                41
+            ],
+            [
+                2001,
+                35
+            ],
+            [
+                2002,
+                29
+            ],
+            [
+                2003,
+                5
+            ],
+            [
+                2004,
+                5
+            ],
+            [
+                2005,
+                0
+            ],
+            [
+                2006,
+                0
+            ],
+            [
+                2007,
+                26
+            ],
+            [
+                2008,
+                12
+            ],
+            [
+                2009,
+                7
+            ],
+            [
+                2010,
+                5
+            ],
+            [
+                2011,
+                19
+            ],
+            [
+                2012,
+                48
+            ],
+            [
+                2013,
+                37
+            ],
+            [
+                2014,
+                28
+            ],
+            [
+                2015,
+                31
+            ],
+            [
+                2016,
+                43
+            ],
+            [
+                2017,
+                34
+            ],
+            [
+                2018,
+                44
+            ],
+            [
+                2019,
+                31
+            ],
+            [
+                2020,
+                36
+            ]
+        ]
+    },
+    "NV0160000": {
+        "ori": "NV0160000",
+        "agency_name": "Washoe County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "WASHOE",
+        "nibrs": true,
+        "latitude": 39.57246,
+        "longitude": -119.80988,
+        "nibrs_start_date": "11/01/2019",
+        "violent_crime_counts": [
+            [
+                1985,
+                178
+            ],
+            [
+                1986,
+                186
+            ],
+            [
+                1987,
+                220
+            ],
+            [
+                1988,
+                336
+            ],
+            [
+                1989,
+                322
+            ],
+            [
+                1990,
+                206
+            ],
+            [
+                1991,
+                253
+            ],
+            [
+                1992,
+                234
+            ],
+            [
+                1993,
+                250
+            ],
+            [
+                1994,
+                233
+            ],
+            [
+                1995,
+                295
+            ],
+            [
+                1996,
+                273
+            ],
+            [
+                1997,
+                159
+            ],
+            [
+                1998,
+                280
+            ],
+            [
+                1999,
+                326
+            ],
+            [
+                2000,
+                201
+            ],
+            [
+                2001,
+                208
+            ],
+            [
+                2002,
+                195
+            ],
+            [
+                2003,
+                314
+            ],
+            [
+                2004,
+                162
+            ],
+            [
+                2005,
+                205
+            ],
+            [
+                2006,
+                199
+            ],
+            [
+                2007,
+                208
+            ],
+            [
+                2008,
+                239
+            ],
+            [
+                2009,
+                265
+            ],
+            [
+                2010,
+                232
+            ],
+            [
+                2011,
+                189
+            ],
+            [
+                2012,
+                188
+            ],
+            [
+                2013,
+                161
+            ],
+            [
+                2014,
+                154
+            ],
+            [
+                2015,
+                172
+            ],
+            [
+                2016,
+                124
+            ],
+            [
+                2017,
+                175
+            ],
+            [
+                2018,
+                168
+            ],
+            [
+                2019,
+                226
+            ],
+            [
+                2020,
+                241
+            ]
+        ]
+    },
+    "NV0160100": {
+        "ori": "NV0160100",
+        "agency_name": "Reno Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "WASHOE",
+        "nibrs": true,
+        "latitude": 40.703311,
+        "longitude": -119.710315,
+        "nibrs_start_date": "11/01/2019",
+        "violent_crime_counts": [
+            [
+                1985,
+                865
+            ],
+            [
+                1986,
+                872
+            ],
+            [
+                1987,
+                903
+            ],
+            [
+                1988,
+                1159
+            ],
+            [
+                1989,
+                1123
+            ],
+            [
+                1990,
+                1061
+            ],
+            [
+                1991,
+                1134
+            ],
+            [
+                1992,
+                1038
+            ],
+            [
+                1993,
+                1047
+            ],
+            [
+                1994,
+                1152
+            ],
+            [
+                1995,
+                1097
+            ],
+            [
+                1996,
+                1122
+            ],
+            [
+                1997,
+                1051
+            ],
+            [
+                1998,
+                840
+            ],
+            [
+                1999,
+                857
+            ],
+            [
+                2000,
+                896
+            ],
+            [
+                2001,
+                1215
+            ],
+            [
+                2002,
+                1484
+            ],
+            [
+                2003,
+                1255
+            ],
+            [
+                2004,
+                1480
+            ],
+            [
+                2005,
+                1518
+            ],
+            [
+                2006,
+                1478
+            ],
+            [
+                2007,
+                1513
+            ],
+            [
+                2008,
+                1532
+            ],
+            [
+                2009,
+                1473
+            ],
+            [
+                2010,
+                1168
+            ],
+            [
+                2011,
+                1108
+            ],
+            [
+                2012,
+                1192
+            ],
+            [
+                2013,
+                1154
+            ],
+            [
+                2014,
+                1147
+            ],
+            [
+                2015,
+                1419
+            ],
+            [
+                2016,
+                1717
+            ],
+            [
+                2017,
+                1674
+            ],
+            [
+                2018,
+                1636
+            ],
+            [
+                2019,
+                1431
+            ],
+            [
+                2020,
+                1460
+            ]
+        ]
+    },
+    "NV0160200": {
+        "ori": "NV0160200",
+        "agency_name": "Sparks Police Department",
+        "agency_type_name": "City",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "WASHOE",
+        "nibrs": true,
+        "latitude": 39.53786,
+        "longitude": -119.76551,
+        "nibrs_start_date": "11/01/2019",
+        "violent_crime_counts": [
+            [
+                1985,
+                260
+            ],
+            [
+                1986,
+                283
+            ],
+            [
+                1987,
+                227
+            ],
+            [
+                1988,
+                480
+            ],
+            [
+                1989,
+                365
+            ],
+            [
+                1990,
+                310
+            ],
+            [
+                1991,
+                404
+            ],
+            [
+                1992,
+                333
+            ],
+            [
+                1993,
+                311
+            ],
+            [
+                1994,
+                291
+            ],
+            [
+                1995,
+                310
+            ],
+            [
+                1996,
+                299
+            ],
+            [
+                1997,
+                295
+            ],
+            [
+                1998,
+                248
+            ],
+            [
+                1999,
+                246
+            ],
+            [
+                2000,
+                281
+            ],
+            [
+                2001,
+                337
+            ],
+            [
+                2002,
+                349
+            ],
+            [
+                2003,
+                358
+            ],
+            [
+                2004,
+                369
+            ],
+            [
+                2005,
+                359
+            ],
+            [
+                2006,
+                380
+            ],
+            [
+                2007,
+                352
+            ],
+            [
+                2008,
+                410
+            ],
+            [
+                2009,
+                399
+            ],
+            [
+                2010,
+                357
+            ],
+            [
+                2011,
+                285
+            ],
+            [
+                2012,
+                234
+            ],
+            [
+                2013,
+                271
+            ],
+            [
+                2014,
+                307
+            ],
+            [
+                2015,
+                359
+            ],
+            [
+                2016,
+                435
+            ],
+            [
+                2017,
+                474
+            ],
+            [
+                2018,
+                508
+            ],
+            [
+                2019,
+                450
+            ],
+            [
+                2020,
+                446
+            ]
+        ]
+    },
+    "NV0160300": {
+        "ori": "NV0160300",
+        "agency_name": "University of Nevada: Reno",
+        "agency_type_name": "University or College",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "WASHOE",
+        "nibrs": true,
+        "latitude": 39.507725,
+        "longitude": -119.80416,
+        "nibrs_start_date": "11/01/2019",
+        "violent_crime_counts": [
+            [
+                1985,
+                12
+            ],
+            [
+                1986,
+                22
+            ],
+            [
+                1987,
+                18
+            ],
+            [
+                1988,
+                10
+            ],
+            [
+                1989,
+                9
+            ],
+            [
+                1990,
+                27
+            ],
+            [
+                1991,
+                42
+            ],
+            [
+                1992,
+                13
+            ],
+            [
+                1993,
+                8
+            ],
+            [
+                1994,
+                12
+            ],
+            [
+                1995,
+                4
+            ],
+            [
+                1996,
+                11
+            ],
+            [
+                1997,
+                11
+            ],
+            [
+                1998,
+                5
+            ],
+            [
+                1999,
+                8
+            ],
+            [
+                2000,
+                14
+            ],
+            [
+                2001,
+                5
+            ],
+            [
+                2002,
+                5
+            ],
+            [
+                2003,
+                11
+            ],
+            [
+                2004,
+                30
+            ],
+            [
+                2005,
+                21
+            ],
+            [
+                2006,
+                6
+            ],
+            [
+                2007,
+                6
+            ],
+            [
+                2008,
+                9
+            ],
+            [
+                2010,
+                10
+            ],
+            [
+                2011,
+                3
+            ],
+            [
+                2012,
+                5
+            ],
+            [
+                2013,
+                6
+            ],
+            [
+                2014,
+                10
+            ],
+            [
+                2015,
+                4
+            ],
+            [
+                2016,
+                1
+            ],
+            [
+                2017,
+                9
+            ],
+            [
+                2018,
+                5
+            ],
+            [
+                2019,
+                3
+            ],
+            [
+                2020,
+                11
+            ]
+        ]
+    },
+    "NV0160800": {
+        "ori": "NV0160800",
+        "agency_name": "Department of Wildlife",
+        "agency_type_name": "Other State Agency",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "WASHOE",
+        "nibrs": true,
+        "latitude": null,
+        "longitude": null,
+        "nibrs_start_date": "07/01/2020",
+        "violent_crime_counts": [
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NV0161000": {
+        "ori": "NV0161000",
+        "agency_name": "Washoe County School District",
+        "agency_type_name": "Other",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "WASHOE",
+        "nibrs": true,
+        "latitude": 39.536694,
+        "longitude": -119.80983,
+        "nibrs_start_date": "08/01/2020",
+        "violent_crime_counts": [
+            [
+                1998,
+                53
+            ],
+            [
+                1999,
+                22
+            ],
+            [
+                2000,
+                9
+            ],
+            [
+                2001,
+                10
+            ],
+            [
+                2002,
+                12
+            ],
+            [
+                2003,
+                9
+            ],
+            [
+                2004,
+                3
+            ],
+            [
+                2005,
+                14
+            ],
+            [
+                2006,
+                12
+            ],
+            [
+                2007,
+                7
+            ],
+            [
+                2008,
+                16
+            ],
+            [
+                2009,
+                7
+            ],
+            [
+                2010,
+                4
+            ],
+            [
+                2011,
+                15
+            ],
+            [
+                2012,
+                10
+            ],
+            [
+                2013,
+                10
+            ],
+            [
+                2014,
+                16
+            ],
+            [
+                2015,
+                14
+            ],
+            [
+                2016,
+                11
+            ],
+            [
+                2017,
+                18
+            ],
+            [
+                2018,
+                27
+            ],
+            [
+                2019,
+                30
+            ],
+            [
+                2020,
+                25
+            ]
+        ]
+    },
+    "NV0161600": {
+        "ori": "NV0161600",
+        "agency_name": "Reno Tahoe Airport Authority",
+        "agency_type_name": "Other",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "WASHOE",
+        "nibrs": true,
+        "latitude": 40.703311,
+        "longitude": -119.710315,
+        "nibrs_start_date": "03/01/2020",
+        "violent_crime_counts": [
+            [
+                2015,
+                2
+            ],
+            [
+                2016,
+                0
+            ],
+            [
+                2017,
+                0
+            ],
+            [
+                2018,
+                2
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NV0162000": {
+        "ori": "NV0162000",
+        "agency_name": "Union Pacific Railroad",
+        "agency_type_name": "Other",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "WASHOE",
+        "nibrs": false,
+        "latitude": null,
+        "longitude": null,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2018,
+                25
+            ]
+        ]
+    },
+    "NV016781J": {
+        "ori": "NV016781J",
+        "agency_name": "Reno Municipal Court Marshal",
+        "agency_type_name": "Other",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "WASHOE",
+        "nibrs": true,
+        "latitude": null,
+        "longitude": null,
+        "nibrs_start_date": "11/01/2019",
+        "violent_crime_counts": [
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                0
+            ]
+        ]
+    },
+    "NV0169900": {
+        "ori": "NV0169900",
+        "agency_name": "Highway Patrol: Northwestern Division",
+        "agency_type_name": "State Police",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": true,
+        "latitude": 40.703311,
+        "longitude": -119.710315,
+        "nibrs_start_date": "07/01/2020",
+        "violent_crime_counts": [
+            [
+                2016,
+                1
+            ],
+            [
+                2017,
+                3
+            ],
+            [
+                2018,
+                1
+            ],
+            [
+                2019,
+                2
+            ],
+            [
+                2020,
+                5
+            ]
+        ]
+    },
+    "NV0170000": {
+        "ori": "NV0170000",
+        "agency_name": "White Pine County Sheriff's Office",
+        "agency_type_name": "County",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "WHITE PINE",
+        "nibrs": false,
+        "latitude": 39.418233,
+        "longitude": -114.900612,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                1985,
+                11
+            ],
+            [
+                1986,
+                8
+            ],
+            [
+                1987,
+                10
+            ],
+            [
+                1988,
+                2
+            ],
+            [
+                1989,
+                3
+            ],
+            [
+                1990,
+                6
+            ],
+            [
+                1991,
+                2
+            ],
+            [
+                1992,
+                1
+            ],
+            [
+                1993,
+                1
+            ],
+            [
+                1994,
+                6
+            ],
+            [
+                1995,
+                10
+            ],
+            [
+                1996,
+                30
+            ],
+            [
+                1997,
+                37
+            ],
+            [
+                1998,
+                19
+            ],
+            [
+                1999,
+                18
+            ],
+            [
+                2000,
+                11
+            ],
+            [
+                2001,
+                32
+            ],
+            [
+                2002,
+                30
+            ],
+            [
+                2003,
+                33
+            ],
+            [
+                2004,
+                25
+            ],
+            [
+                2005,
+                33
+            ],
+            [
+                2006,
+                39
+            ],
+            [
+                2007,
+                13
+            ],
+            [
+                2008,
+                20
+            ],
+            [
+                2009,
+                14
+            ],
+            [
+                2010,
+                33
+            ],
+            [
+                2011,
+                32
+            ],
+            [
+                2012,
+                46
+            ],
+            [
+                2013,
+                26
+            ],
+            [
+                2014,
+                31
+            ],
+            [
+                2015,
+                27
+            ],
+            [
+                2016,
+                13
+            ],
+            [
+                2017,
+                18
+            ],
+            [
+                2018,
+                28
+            ],
+            [
+                2019,
+                7
+            ],
+            [
+                2020,
+                26
+            ]
+        ]
+    },
+    "NV018065A": {
+        "ori": "NV018065A",
+        "agency_name": "Attorney General Investigations Division",
+        "agency_type_name": "Other State Agency",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": null,
+        "longitude": null,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NVDI00300": {
+        "ori": "NVDI00300",
+        "agency_name": "Reno-Sparks Indian Colony",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 39.52747,
+        "longitude": -119.78664,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                2006,
+                6
+            ],
+            [
+                2007,
+                14
+            ],
+            [
+                2008,
+                10
+            ],
+            [
+                2009,
+                3
+            ],
+            [
+                2010,
+                20
+            ],
+            [
+                2011,
+                29
+            ],
+            [
+                2012,
+                17
+            ],
+            [
+                2013,
+                4
+            ],
+            [
+                2014,
+                1
+            ],
+            [
+                2015,
+                0
+            ],
+            [
+                2016,
+                0
+            ],
+            [
+                2017,
+                0
+            ],
+            [
+                2018,
+                1
+            ],
+            [
+                2019,
+                6
+            ],
+            [
+                2020,
+                7
+            ]
+        ]
+    },
+    "NVDI00500": {
+        "ori": "NVDI00500",
+        "agency_name": "Lovelock Paiute Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 40.439639,
+        "longitude": -118.409477,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                2006,
+                3
+            ],
+            [
+                2007,
+                5
+            ],
+            [
+                2008,
+                18
+            ],
+            [
+                2009,
+                13
+            ],
+            [
+                2010,
+                5
+            ],
+            [
+                2011,
+                0
+            ],
+            [
+                2012,
+                1
+            ],
+            [
+                2013,
+                0
+            ],
+            [
+                2014,
+                5
+            ],
+            [
+                2015,
+                3
+            ],
+            [
+                2016,
+                2
+            ],
+            [
+                2017,
+                0
+            ],
+            [
+                2018,
+                1
+            ],
+            [
+                2019,
+                2
+            ],
+            [
+                2020,
+                1
+            ]
+        ]
+    },
+    "NVDI00700": {
+        "ori": "NVDI00700",
+        "agency_name": "Ely Shoshone Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 39.418233,
+        "longitude": -114.900612,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2006,
+                4
+            ],
+            [
+                2007,
+                1
+            ],
+            [
+                2008,
+                0
+            ],
+            [
+                2009,
+                1
+            ],
+            [
+                2010,
+                1
+            ],
+            [
+                2011,
+                2
+            ],
+            [
+                2012,
+                1
+            ],
+            [
+                2013,
+                0
+            ],
+            [
+                2014,
+                0
+            ],
+            [
+                2016,
+                0
+            ],
+            [
+                2017,
+                1
+            ],
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                2
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NVDI00800": {
+        "ori": "NVDI00800",
+        "agency_name": "Fallon Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 39.488716,
+        "longitude": -118.75819,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2006,
+                13
+            ],
+            [
+                2007,
+                3
+            ],
+            [
+                2008,
+                6
+            ],
+            [
+                2009,
+                2
+            ],
+            [
+                2010,
+                3
+            ],
+            [
+                2011,
+                2
+            ],
+            [
+                2012,
+                2
+            ],
+            [
+                2013,
+                4
+            ],
+            [
+                2014,
+                11
+            ],
+            [
+                2015,
+                2
+            ],
+            [
+                2016,
+                8
+            ],
+            [
+                2017,
+                12
+            ],
+            [
+                2018,
+                8
+            ],
+            [
+                2019,
+                4
+            ],
+            [
+                2020,
+                4
+            ]
+        ]
+    },
+    "NVDI05000": {
+        "ori": "NVDI05000",
+        "agency_name": "Western Nevada Agency",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 36.214236,
+        "longitude": -115.013819,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                2006,
+                29
+            ],
+            [
+                2007,
+                11
+            ],
+            [
+                2008,
+                9
+            ],
+            [
+                2009,
+                8
+            ],
+            [
+                2010,
+                19
+            ],
+            [
+                2011,
+                16
+            ],
+            [
+                2012,
+                11
+            ],
+            [
+                2013,
+                8
+            ],
+            [
+                2014,
+                2
+            ],
+            [
+                2015,
+                9
+            ],
+            [
+                2016,
+                5
+            ],
+            [
+                2017,
+                2
+            ],
+            [
+                2018,
+                9
+            ],
+            [
+                2019,
+                4
+            ],
+            [
+                2020,
+                4
+            ]
+        ]
+    },
+    "NVDI05100": {
+        "ori": "NVDI05100",
+        "agency_name": "Eastern Nevada Agency",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 41.141133,
+        "longitude": -115.351424,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                2006,
+                8
+            ],
+            [
+                2009,
+                3
+            ],
+            [
+                2010,
+                6
+            ],
+            [
+                2011,
+                2
+            ],
+            [
+                2012,
+                0
+            ],
+            [
+                2013,
+                7
+            ],
+            [
+                2014,
+                13
+            ],
+            [
+                2015,
+                8
+            ],
+            [
+                2016,
+                8
+            ],
+            [
+                2017,
+                0
+            ],
+            [
+                2018,
+                2
+            ],
+            [
+                2019,
+                15
+            ],
+            [
+                2020,
+                2
+            ]
+        ]
+    },
+    "NVDI05500": {
+        "ori": "NVDI05500",
+        "agency_name": "Walker River Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 38.516647,
+        "longitude": -118.416279,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2006,
+                14
+            ],
+            [
+                2007,
+                8
+            ],
+            [
+                2008,
+                7
+            ],
+            [
+                2009,
+                11
+            ],
+            [
+                2010,
+                22
+            ],
+            [
+                2011,
+                12
+            ],
+            [
+                2012,
+                11
+            ],
+            [
+                2013,
+                10
+            ],
+            [
+                2014,
+                4
+            ],
+            [
+                2015,
+                14
+            ],
+            [
+                2016,
+                6
+            ],
+            [
+                2017,
+                1
+            ],
+            [
+                2018,
+                3
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                1
+            ]
+        ]
+    },
+    "NVDI05700": {
+        "ori": "NVDI05700",
+        "agency_name": "Pyramid Lake Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": true,
+        "latitude": 40.703311,
+        "longitude": -119.710315,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                2006,
+                12
+            ],
+            [
+                2007,
+                4
+            ],
+            [
+                2008,
+                4
+            ],
+            [
+                2009,
+                13
+            ],
+            [
+                2010,
+                23
+            ],
+            [
+                2011,
+                17
+            ],
+            [
+                2012,
+                26
+            ],
+            [
+                2013,
+                14
+            ],
+            [
+                2014,
+                20
+            ],
+            [
+                2015,
+                19
+            ],
+            [
+                2016,
+                15
+            ],
+            [
+                2017,
+                13
+            ],
+            [
+                2018,
+                17
+            ],
+            [
+                2019,
+                20
+            ],
+            [
+                2020,
+                12
+            ]
+        ]
+    },
+    "NVDI05800": {
+        "ori": "NVDI05800",
+        "agency_name": "Moapa Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 36.214236,
+        "longitude": -115.013819,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                2006,
+                6
+            ],
+            [
+                2007,
+                13
+            ],
+            [
+                2008,
+                7
+            ],
+            [
+                2009,
+                4
+            ],
+            [
+                2010,
+                1
+            ],
+            [
+                2011,
+                4
+            ],
+            [
+                2012,
+                3
+            ],
+            [
+                2013,
+                5
+            ],
+            [
+                2014,
+                1
+            ],
+            [
+                2015,
+                4
+            ],
+            [
+                2016,
+                10
+            ],
+            [
+                2017,
+                6
+            ],
+            [
+                2018,
+                2
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NVDI06300": {
+        "ori": "NVDI06300",
+        "agency_name": "Western Shoshone Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 40.847855,
+        "longitude": -115.76445,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2008,
+                3
+            ],
+            [
+                2009,
+                0
+            ],
+            [
+                2011,
+                4
+            ],
+            [
+                2012,
+                4
+            ],
+            [
+                2013,
+                10
+            ],
+            [
+                2014,
+                14
+            ],
+            [
+                2015,
+                0
+            ],
+            [
+                2016,
+                11
+            ],
+            [
+                2017,
+                1
+            ],
+            [
+                2018,
+                1
+            ],
+            [
+                2019,
+                1
+            ],
+            [
+                2020,
+                1
+            ]
+        ]
+    },
+    "NVDI06400": {
+        "ori": "NVDI06400",
+        "agency_name": "Yomba Shoshone Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 37.966379,
+        "longitude": -116.459047,
+        "nibrs_start_date": "01/01/2021",
+        "violent_crime_counts": [
+            [
+                2006,
+                0
+            ],
+            [
+                2009,
+                1
+            ],
+            [
+                2010,
+                0
+            ],
+            [
+                2011,
+                0
+            ],
+            [
+                2012,
+                7
+            ],
+            [
+                2013,
+                7
+            ],
+            [
+                2014,
+                1
+            ],
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NVDI06500": {
+        "ori": "NVDI06500",
+        "agency_name": "South Fork Band Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 41.141133,
+        "longitude": -115.351424,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2012,
+                0
+            ],
+            [
+                2013,
+                1
+            ],
+            [
+                2014,
+                2
+            ],
+            [
+                2015,
+                3
+            ],
+            [
+                2017,
+                0
+            ],
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    },
+    "NVDI06600": {
+        "ori": "NVDI06600",
+        "agency_name": "Duckwater Tribal",
+        "agency_type_name": "Tribal",
+        "state_name": "Nevada",
+        "state_abbr": "NV",
+        "division_name": "Mountain",
+        "region_name": "West",
+        "region_desc": "Region IV",
+        "county_name": "",
+        "nibrs": false,
+        "latitude": 39.418233,
+        "longitude": -114.900612,
+        "nibrs_start_date": null,
+        "violent_crime_counts": [
+            [
+                2006,
+                2
+            ],
+            [
+                2007,
+                0
+            ],
+            [
+                2008,
+                0
+            ],
+            [
+                2010,
+                0
+            ],
+            [
+                2011,
+                1
+            ],
+            [
+                2012,
+                1
+            ],
+            [
+                2013,
+                0
+            ],
+            [
+                2014,
+                0
+            ],
+            [
+                2015,
+                0
+            ],
+            [
+                2017,
+                0
+            ],
+            [
+                2018,
+                0
+            ],
+            [
+                2019,
+                0
+            ],
+            [
+                2020,
+                0
+            ]
+        ]
+    }
+}

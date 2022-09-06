@@ -1,0 +1,35 @@
+"Easy Access to State and County Juvenile Court Case Counts"
+
+"VenueDistricts in state: 11"
+
+,"2019 Population Estimates",,,"Delinquency",,"Status",,"Dependency",,
+"Reporting VenueDistricts","Total","10 Through Upper Age","0 Through Upper Age","Petition","Non-petition","Petition","Non-petition","Petition","Non-petition","All Reported Cases"
+"Bridgeport","--","--","--","713","602","10","90","--","--","--"
+"Hartford","--","--","--","530","406","*","27","--","--","--"
+"Middletown","--","--","--","221","155","28","9","--","--","--"
+"New Britain","--","--","--","463","356","14","45","--","--","--"
+"New Haven","--","--","--","667","409","*","18","--","--","--"
+"Rockville","--","--","--","202","143","*","5","--","--","--"
+"Stamford","--","--","--","209","170","0","18","--","--","--"
+"Torrington","--","--","--","129","94","*","19","--","--","--"
+"Waterbury","--","--","--","762","423","0","37","--","--","--"
+"Waterford","--","--","--","300","290","5","26","--","--","--"
+"Willimantic","--","--","--","139","161","0","9","--","--","--"
+
+"Number of Reported Cases",,,,"4,335","3,209","64","303","--","--","--"
+"Population Represented","3,565,300","351,000","727,400","351,000","351,000","351,000","351,000","--","--","--"
+"Rates for Reporting VenueDistricts",,,,"12.35","9.14","0.18","0.86","--","--","--"
+"Number of Reporting VenueDistricts",,,,"11","11","11","11","--","--","--"
+
+"*Denotes case counts greater than zero and less than five."
+
+"--","Data are either not available or are not reliable for publication."
+"Source: Judicial Branch Administration, Court Support Services and Court Operations Divisions"
+"Mode: Automated data file"
+"1. Delinquency figures are cases disposed."
+"2. Status figures are cases disposed."
+"3. On June 30, 2010, the Norwalk juvenile court closed and those cases are now handled by the Bridgeport juvenile court."
+"4. On Sept 30, 2018, the Danbury juvenile court closed and the majority of those cases are now handled by the Bridgeport juvenile court with some also going to the Waterbury juvenile court."
+
+"Suggested citation:Hockenberry, S., Smith, J., and Kang, W. (2021)."
+"Easy Access to State and County Juvenile Court Case Counts, 2019. Online. Available: https://www.ojjdp.gov/ojstatbb/ezaco/."

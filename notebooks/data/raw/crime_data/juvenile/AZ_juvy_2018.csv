@@ -1,0 +1,37 @@
+"Easy Access to State and County Juvenile Court Case Counts"
+
+"Counties in state: 15"
+
+,"2018 Population Estimates",,,"Delinquency",,"Status",,"Dependency",,
+"Reporting Counties","Total","10 Through Upper Age","0 Through Upper Age","Petition","Non-petition","Petition","Non-petition","Petition","Non-petition","All Reported Cases"
+"Apache","71,800","9,300","19,500","60","7","8","*","--","--","--"
+"Cochise","126,800","12,400","27,300","202","443","36","244","--","--","--"
+"Coconino","142,900","13,400","29,500","281","322","23","57","--","--","--"
+"Gila","53,900","4,700","10,800","168","127","31","58","--","--","--"
+"Graham","38,100","4,700","10,300","129","38","20","31","--","--","--"
+"Greenlee","9,500","1,100","2,600","13","12","0","17","--","--","--"
+"La Paz","21,100","1,600","3,500","10","9","0","10","--","--","--"
+"Maricopa","4,410,800","483,900","1,052,800","4,887","4,967","75","1,789","--","--","--"
+"Mohave","209,600","17,000","35,700","447","280","24","179","--","--","--"
+"Navajo","110,400","13,500","29,500","195","162","20","27","--","--","--"
+"Pima","1,039,100","98,800","216,700","1,882","2,320","37","1,069","--","--","--"
+"Pinal","447,100","47,100","100,800","645","660","42","147","--","--","--"
+"Santa Cruz","46,500","5,800","12,400","93","149","7","62","--","--","--"
+"Yavapai","232,000","18,000","37,700","553","368","62","187","--","--","--"
+"Yuma","212,100","23,600","53,500","948","268","183","433","--","--","--"
+
+"Number of Reported Cases",,,,"10,513","10,132","568","4,313","--","--","--"
+"Population Represented","7,171,600","755,000","1,642,700","755,000","755,000","755,000","755,000","--","--","--"
+"Rates for Reporting Counties",,,,"13.92","13.42","0.75","5.71","--","--","--"
+"Number of Reporting Counties",,,,"15","15","15","15","--","--","--"
+
+"*Denotes case counts greater than zero and less than five."
+
+"--","Data are either not available or are not reliable for publication."
+"Source: Supreme Court, State of Arizona, Administrative Office of the Courts"
+"Mode: Automated data file"
+"1. Delinquency figures are cases disposed."
+"2. Status figures are cases disposed."
+
+"Suggested citation:Hockenberry, S., Smith, J., and Kang, W. (2021)."
+"Easy Access to State and County Juvenile Court Case Counts, 2019. Online. Available: https://www.ojjdp.gov/ojstatbb/ezaco/."
