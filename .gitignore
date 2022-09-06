@@ -1,4 +1,3 @@
 .ipynb_checkpoints
 __pycache__/*
-
-streamlit/__pycache__/*
+streamlitapp/__pycache__/*
