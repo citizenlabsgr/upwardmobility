@@ -22,7 +22,7 @@ def show_national_page():
         row["url"] = url + str(row["id"])
         return row
 
-    counties_df = pd.read_csv("counties_merged.csv")
+    counties_df = pd.read_csv("streamlitapp/counties_merged.csv")
     county_display_df = counties_df[["NAME", "FIPS"]]
     county_display_df.columns = ["NAME", "id"]
     county_display_df["url"] = ""
