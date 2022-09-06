@@ -1,0 +1,25 @@
+"Easy Access to State and County Juvenile Court Case Counts"
+
+"Counties in state: 5"
+
+,"2019 Population Estimates",,,"Delinquency",,"Status",,"Dependency",,
+"Reporting Counties","Total","10 Through Upper Age","0 Through Upper Age","Petition","Non-petition","Petition","Non-petition","Petition","Non-petition","All Reported Cases"
+"Bristol","48,500","4,700","9,000","--","--","--","--","--","--","--"
+"Kent","164,300","14,200","30,600","144","85","61","170","--","--","--"
+"Newport","82,100","6,400","13,700","82","25","18","51","--","--","--"
+"Providence","638,900","59,400","130,900","781","466","355","539","--","--","--"
+"Washington","125,600","10,500","20,300","89","83","31","75","--","--","--"
+
+"Number of Reported Cases",,,,"1,096","659","465","835","--","--","--"
+"Population Represented","1,059,400","95,100","204,500","90,400","90,400","90,400","90,400","--","--","--"
+"Rates for Reporting Counties",,,,"12.12","7.29","5.14","9.23","--","--","--"
+"Number of Reporting Counties",,,,"4","4","4","4","--","--","--"
+
+"--","Data are either not available or are not reliable for publication."
+"Source: Rhode Island Family Court"
+"Mode: Automated data file"
+"1. Delinquency figures are cases disposed."
+"2. Status figures are cases disposed."
+
+"Suggested citation:Hockenberry, S., Smith, J., and Kang, W. (2021)."
+"Easy Access to State and County Juvenile Court Case Counts, 2019. Online. Available: https://www.ojjdp.gov/ojstatbb/ezaco/."

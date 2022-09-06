@@ -1,0 +1,25 @@
+"Easy Access to State and County Juvenile Court Case Counts"
+
+"Counties in state: 5"
+
+,"2019 Population Estimates",,,"Delinquency",,"Status",,"Dependency",,
+"Reporting Counties","Total","10 Through Upper Age","0 Through Upper Age","Petition","Non-petition","Petition","Non-petition","Petition","Non-petition","All Reported Cases"
+"Hawaii","201,500","19,100","43,200","256","260","320","482","--","--","--"
+"Honolulu","974,600","85,800","204,900","635","311","163","1,216","--","--","--"
+"Kalawao","100","--","--","0","0","0","0","--","--","--"
+"Kauai","72,300","6,900","15,700","107","52","65","159","--","--","--"
+"Maui","167,400","16,000","36,100","180","130","187","233","--","--","--"
+
+"Number of Reported Cases",,,,"1,178","753","735","2,090","--","--","--"
+"Population Represented","1,415,900","127,900","299,900","127,900","127,900","127,900","127,900","--","--","--"
+"Rates for Reporting Counties",,,,"9.21","5.89","5.74","16.34","--","--","--"
+"Number of Reporting Counties",,,,"5","5","5","5","--","--","--"
+
+"--","Data are either not available or are not reliable for publication."
+"Source: Family Court of the First Circuit, The Judiciary, State of Hawaii"
+"Mode: Automated data file"
+"1. Delinquency figures are cases disposed."
+"2. Status figures are cases disposed. "
+
+"Suggested citation:Hockenberry, S., Smith, J., and Kang, W. (2021)."
+"Easy Access to State and County Juvenile Court Case Counts, 2019. Online. Available: https://www.ojjdp.gov/ojstatbb/ezaco/."

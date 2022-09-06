@@ -1,0 +1,38 @@
+"Easy Access to State and County Juvenile Court Case Counts"
+
+"Counties in state: 14"
+
+,"2019 Population Estimates",,,"Delinquency",,"Status",,"Dependency",,
+"Reporting Counties","Total","10 Through Upper Age","0 Through Upper Age","Petition","Non-petition","Petition","Non-petition","Petition","Non-petition","All Reported Cases"
+"Addison","36,800","2,900","6,100","28","--","*","--","74","--","--"
+"Bennington","35,500","3,200","6,600","90","--","*","--","122","--","--"
+"Caledonia","30,000","2,800","5,700","20","--","0","--","47","--","--"
+"Chittenden","163,800","13,400","28,500","198","--","*","--","271","--","--"
+"Essex","6,200","500","1,100","*","--","0","--","*","--","--"
+"Franklin","49,400","4,900","10,800","129","--","*","--","144","--","--"
+"Grand Isle","7,200","600","1,300","8","--","0","--","18","--","--"
+"Lamoille","25,400","2,400","5,100","33","--","*","--","42","--","--"
+"Orange","28,900","2,400","5,200","39","--","*","--","24","--","--"
+"Orleans","27,000","2,500","5,200","45","--","0","--","67","--","--"
+"Rutland","58,200","4,800","10,200","108","--","10","--","115","--","--"
+"Washington","58,400","5,100","10,800","88","--","*","--","51","--","--"
+"Windham","42,200","3,500","7,400","63","--","0","--","94","--","--"
+"Windsor","55,100","4,800","9,800","82","--","*","--","52","--","--"
+
+"Number of Reported Cases",,,,"934","--","30","--","1,122","--","--"
+"Population Represented","624,000","53,900","114,000","53,900","--","53,900","--","114,000","--","--"
+"Rates for Reporting Counties",,,,"17.34","--","0.56","--","9.84","--","--"
+"Number of Reporting Counties",,,,"14","--","14","--","14","--","--"
+
+"*Denotes case counts greater than zero and less than five."
+
+"--","Data are either not available or are not reliable for publication."
+"Source: Vermont Court Administrator's Office"
+"Mode: Automated data file"
+"1. Delinquency figures are cases disposed."
+"2. Status figures are cases disposed."
+"3. Dependency figures are cases disposed."
+"4. Dependency figures include truancy and unmanageable cases."
+
+"Suggested citation:Hockenberry, S., Smith, J., and Kang, W. (2021)."
+"Easy Access to State and County Juvenile Court Case Counts, 2019. Online. Available: https://www.ojjdp.gov/ojstatbb/ezaco/."

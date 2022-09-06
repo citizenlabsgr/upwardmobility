@@ -1,0 +1,23 @@
+"Easy Access to State and County Juvenile Court Case Counts"
+
+"District in state: 1"
+
+,"2019 Population Estimates",,,"Delinquency",,"Status",,"Dependency",,
+"Reporting District","Total","10 Through Upper Age","0 Through Upper Age","Petition","Non-petition","Petition","Non-petition","Petition","Non-petition","All Reported Cases"
+"District of Columbia","705,700","44,600","128,200","755","315","67","*","--","--","--"
+
+"Number of Reported Cases",,,,"755","315","67","*","--","--","--"
+"Population Represented","705,700","44,600","128,200","44,600","44,600","44,600","44,600","--","--","--"
+"Rates for Reporting District",,,,"16.92","7.06","1.50","0.07","--","--","--"
+"Number of Reporting Districts",,,,"1","1","1","1","--","--","--"
+
+"*Denotes case counts greater than zero and less than five."
+
+"--","Data are either not available or are not reliable for publication."
+"Source: Superior Court of the District of Columbia"
+"Mode: Automated data file"
+"1. Delinquency figures are cases disposed.   "
+"2. Status figures are cases disposed. "
+
+"Suggested citation:Hockenberry, S., Smith, J., and Kang, W. (2021)."
+"Easy Access to State and County Juvenile Court Case Counts, 2019. Online. Available: https://www.ojjdp.gov/ojstatbb/ezaco/."

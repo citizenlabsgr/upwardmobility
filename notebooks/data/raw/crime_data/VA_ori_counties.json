@@ -1,0 +1,638 @@
+{
+    "ACCOMACK": [
+        "VA0010000",
+        "VA0010100",
+        "VA0010200",
+        "VA0010300",
+        "VA0010400",
+        "VA0010500",
+        "VA001SP00"
+    ],
+    "ALBEMARLE": [
+        "VA0020100",
+        "VA0020300",
+        "VA002SP00"
+    ],
+    "ALLEGHANY": [
+        "VA0030000",
+        "VA003SP00",
+        "VA1040000"
+    ],
+    "AMELIA": [
+        "VA0040000",
+        "VA004SP00"
+    ],
+    "AMHERST": [
+        "VA0050000",
+        "VA0050100",
+        "VA005SP00"
+    ],
+    "APPOMATTOX": [
+        "VA0060000",
+        "VA006SP00"
+    ],
+    "ARLINGTON": [
+        "VA0070100",
+        "VA007SP00",
+        "VAMWA0000"
+    ],
+    "AUGUSTA": [
+        "VA0080000",
+        "VA008SP00"
+    ],
+    "BATH": [
+        "VA0090000",
+        "VA009SP00"
+    ],
+    "BEDFORD": [
+        "VA0100000",
+        "VA0100100",
+        "VA010SP00"
+    ],
+    "BLAND": [
+        "VA0110000",
+        "VA011SP00"
+    ],
+    "BOTETOURT": [
+        "VA0120000",
+        "VA012SP00"
+    ],
+    "BRUNSWICK": [
+        "VA0130000",
+        "VA0130100",
+        "VA013SP00"
+    ],
+    "BUCHANAN": [
+        "VA0140000",
+        "VA0140100",
+        "VA014SP00"
+    ],
+    "BUCKINGHAM": [
+        "VA0150000",
+        "VA015SP00"
+    ],
+    "CAMPBELL": [
+        "VA0160000",
+        "VA0160100",
+        "VA0160200",
+        "VA016SP00"
+    ],
+    "CAROLINE": [
+        "VA0170000",
+        "VA0170100",
+        "VA017SP00"
+    ],
+    "CARROLL": [
+        "VA0180000",
+        "VA0180100",
+        "VA018SP00"
+    ],
+    "CHARLES CITY": [
+        "VA0190000",
+        "VA019SP00"
+    ],
+    "CHARLOTTE": [
+        "VA0200000",
+        "VA020SP00"
+    ],
+    "CHESTERFIELD": [
+        "VA0210100",
+        "VA021SP00"
+    ],
+    "CLARKE": [
+        "VA0220000",
+        "VA0220100",
+        "VA022SP00"
+    ],
+    "CRAIG": [
+        "VA0230000",
+        "VA023SP00"
+    ],
+    "CULPEPER": [
+        "VA0240000",
+        "VA0240100",
+        "VA024SP00"
+    ],
+    "CUMBERLAND": [
+        "VA0250000",
+        "VA025SP00"
+    ],
+    "DICKENSON": [
+        "VA0260000",
+        "VA0260100",
+        "VA0260200",
+        "VA0260300",
+        "VA026SP00"
+    ],
+    "DINWIDDIE": [
+        "VA0270000",
+        "VA027SP00"
+    ],
+    "ESSEX": [
+        "VA0280000",
+        "VA0280200",
+        "VA028SP00"
+    ],
+    "FAIRFAX": [
+        "VA0290100",
+        "VA0290200",
+        "VA0290300",
+        "VA0290400",
+        "VA0290500",
+        "VA029SP00"
+    ],
+    "FAUQUIER": [
+        "VA0300000",
+        "VA0300100",
+        "VA0300200",
+        "VA030SP00"
+    ],
+    "FLOYD": [
+        "VA0310000",
+        "VA031SP00"
+    ],
+    "FLUVANNA": [
+        "VA0320000",
+        "VA032SP00"
+    ],
+    "FRANKLIN": [
+        "VA0330000",
+        "VA0330100",
+        "VA0330300",
+        "VA033SP00"
+    ],
+    "FREDERICK": [
+        "VA0340000",
+        "VA0340100",
+        "VA0340200",
+        "VA0340400",
+        "VA034SP00"
+    ],
+    "GILES": [
+        "VA0350000",
+        "VA0350100",
+        "VA0350200",
+        "VA0350300",
+        "VA0350400",
+        "VA0350500",
+        "VA035SP00"
+    ],
+    "GLOUCESTER": [
+        "VA0360000",
+        "VA036SP00"
+    ],
+    "GOOCHLAND": [
+        "VA0370000",
+        "VA037SP00"
+    ],
+    "GRAYSON": [
+        "VA0380000",
+        "VA0380200",
+        "VA038SP00"
+    ],
+    "GREENE": [
+        "VA0390000",
+        "VA039SP00"
+    ],
+    "GREENSVILLE": [
+        "VA0400000",
+        "VA040SP00"
+    ],
+    "EMPORIA CITY": [
+        "VA0400100"
+    ],
+    "HALIFAX": [
+        "VA0410000",
+        "VA0410100",
+        "VA041SP00",
+        "VA1240000"
+    ],
+    "HANOVER": [
+        "VA0420000",
+        "VA0420100",
+        "VA042SP00"
+    ],
+    "HENRICO": [
+        "VA0430100",
+        "VA0430300",
+        "VA0430700",
+        "VA043SP00"
+    ],
+    "HENRY": [
+        "VA0440000",
+        "VA044SP00"
+    ],
+    "HIGHLAND": [
+        "VA0450000",
+        "VA045SP00"
+    ],
+    "ISLE OF WIGHT": [
+        "VA0460000",
+        "VA0460100",
+        "VA0460200",
+        "VA046SP00"
+    ],
+    "JAMES CITY": [
+        "VA0470100",
+        "VA047SP00"
+    ],
+    "KING AND QUEEN": [
+        "VA0480000",
+        "VA048SP00"
+    ],
+    "KING GEORGE": [
+        "VA0490000",
+        "VA049SP00"
+    ],
+    "KING WILLIAM": [
+        "VA0500000",
+        "VA0500200",
+        "VA050SP00"
+    ],
+    "LANCASTER": [
+        "VA0510000",
+        "VA0510300",
+        "VA051SP00"
+    ],
+    "NORTHUMBERLAND; LANCASTER": [
+        "VA0510100"
+    ],
+    "LEE": [
+        "VA0520000",
+        "VA0520100",
+        "VA0520200",
+        "VA052SP00"
+    ],
+    "LOUDOUN": [
+        "VA0530000",
+        "VA0530100",
+        "VA0530200",
+        "VA0530300",
+        "VA053SP00"
+    ],
+    "LOUISA": [
+        "VA0540000",
+        "VA0540100",
+        "VA054SP00"
+    ],
+    "LUNENBURG": [
+        "VA0550000",
+        "VA0550100",
+        "VA0550300",
+        "VA055SP00"
+    ],
+    "MADISON": [
+        "VA0560000",
+        "VA056SP00"
+    ],
+    "MATHEWS": [
+        "VA0570000",
+        "VA057SP00"
+    ],
+    "MECKLENBURG": [
+        "VA0580000",
+        "VA0580200",
+        "VA0580300",
+        "VA0580400",
+        "VA0580500",
+        "VA058SP00"
+    ],
+    "MIDDLESEX": [
+        "VA0590000",
+        "VA059SP00"
+    ],
+    "MONTGOMERY": [
+        "VA0600000",
+        "VA0600100",
+        "VA0600300",
+        "VA0600400",
+        "VA060SP00"
+    ],
+    "NELSON": [
+        "VA0620000",
+        "VA062019P",
+        "VA062SP00"
+    ],
+    "NEW KENT": [
+        "VA0630000",
+        "VA063SP00"
+    ],
+    "NORTHAMPTON": [
+        "VA0650000",
+        "VA0650100",
+        "VA0650200",
+        "VA0650300",
+        "VA065SP00"
+    ],
+    "NORTHUMBERLAND": [
+        "VA0660000",
+        "VA066SP00"
+    ],
+    "NOTTOWAY": [
+        "VA0670000",
+        "VA0670100",
+        "VA0670200",
+        "VA0670300",
+        "VA067SP00"
+    ],
+    "ORANGE": [
+        "VA0680000",
+        "VA0680100",
+        "VA0680200",
+        "VA068SP00"
+    ],
+    "PAGE": [
+        "VA0690000",
+        "VA0690100",
+        "VA0690200",
+        "VA0690300",
+        "VA069SP00"
+    ],
+    "PATRICK": [
+        "VA0700000",
+        "VA070SP00"
+    ],
+    "PITTSYLVANIA": [
+        "VA0710000",
+        "VA0710100",
+        "VA0710200",
+        "VA0710300",
+        "VA071SP00"
+    ],
+    "POWHATAN": [
+        "VA0720000",
+        "VA072SP00"
+    ],
+    "PRINCE EDWARD": [
+        "VA0730000",
+        "VA0730200",
+        "VA073SP00"
+    ],
+    "CUMBERLAND; PRINCE EDWARD": [
+        "VA0730100"
+    ],
+    "PRINCE GEORGE": [
+        "VA0740100",
+        "VA074SP00"
+    ],
+    "MANASSAS CITY": [
+        "VA0750100"
+    ],
+    "MANASSAS PARK CITY": [
+        "VA0750200"
+    ],
+    "PRINCE WILLIAM": [
+        "VA0750300",
+        "VA0750400",
+        "VA0750500",
+        "VA0750600",
+        "VA0750700",
+        "VA075SP00"
+    ],
+    "PULASKI": [
+        "VA0770000",
+        "VA0770100",
+        "VA0770200",
+        "VA077SP00"
+    ],
+    "RAPPAHANNOCK": [
+        "VA0780000",
+        "VA078SP00"
+    ],
+    "RICHMOND": [
+        "VA0790000",
+        "VA0790100",
+        "VA079SP00"
+    ],
+    "SALEM CITY": [
+        "VA0800100"
+    ],
+    "ROANOKE": [
+        "VA0800200",
+        "VA0800300",
+        "VA080SP00"
+    ],
+    "ROCKBRIDGE": [
+        "VA0810000",
+        "VA0810100",
+        "VA0810300",
+        "VA081SP00"
+    ],
+    "LEXINGTON CITY": [
+        "VA0810200"
+    ],
+    "ROCKINGHAM": [
+        "VA0820000",
+        "VA0820100",
+        "VA0820200",
+        "VA0820300",
+        "VA0820400",
+        "VA0820600",
+        "VA0820700",
+        "VA082099E",
+        "VA082SP00"
+    ],
+    "AUGUSTA; ROCKINGHAM": [
+        "VA0820500"
+    ],
+    "RUSSELL": [
+        "VA0830000",
+        "VA0830100",
+        "VA0830200",
+        "VA083SP00"
+    ],
+    "SCOTT": [
+        "VA0840000",
+        "VA0840100",
+        "VA0840200",
+        "VA084SP00"
+    ],
+    "SHENANDOAH": [
+        "VA0850000",
+        "VA0850200",
+        "VA0850300",
+        "VA0850400",
+        "VA0850500",
+        "VA085SP00"
+    ],
+    "SMYTH": [
+        "VA0860000",
+        "VA0860100",
+        "VA0860300",
+        "VA086SP00"
+    ],
+    "WASHINGTON; SMYTH": [
+        "VA0860200"
+    ],
+    "SOUTHAMPTON": [
+        "VA0870000",
+        "VA087SP00"
+    ],
+    "SPOTSYLVANIA": [
+        "VA0880000",
+        "VA0880300",
+        "VA088SP00"
+    ],
+    "STAFFORD": [
+        "VA0890000",
+        "VA089SP00"
+    ],
+    "SURRY": [
+        "VA0900000",
+        "VA090SP00"
+    ],
+    "SUSSEX": [
+        "VA0910000",
+        "VA0910400",
+        "VA091SP00"
+    ],
+    "TAZEWELL": [
+        "VA0920000",
+        "VA0920100",
+        "VA0920200",
+        "VA0920300",
+        "VA0920400",
+        "VA0920500",
+        "VA0920600",
+        "VA092SP00"
+    ],
+    "WARREN": [
+        "VA0930000",
+        "VA0930100",
+        "VA093SP00"
+    ],
+    "WASHINGTON": [
+        "VA0940000",
+        "VA0940100",
+        "VA0940200",
+        "VA0940300",
+        "VA094049E",
+        "VA094SP00"
+    ],
+    "WESTMORELAND": [
+        "VA0950000",
+        "VA0950100",
+        "VA095SP00"
+    ],
+    "WISE": [
+        "VA0960000",
+        "VA0960200",
+        "VA0960300",
+        "VA0960400",
+        "VA0960600",
+        "VA0960700",
+        "VA096SP00"
+    ],
+    "RUSSELL; WISE": [
+        "VA0960500"
+    ],
+    "WYTHE": [
+        "VA0970000",
+        "VA0970100",
+        "VA0970300",
+        "VA097SP00"
+    ],
+    "YORK": [
+        "VA0980000",
+        "VA098SP00"
+    ],
+    "POQUOSON CITY": [
+        "VA0980100"
+    ],
+    "ALEXANDRIA CITY": [
+        "VA0990000"
+    ],
+    "BRISTOL CITY": [
+        "VA1000000"
+    ],
+    "BUENA VISTA CITY": [
+        "VA1010000"
+    ],
+    "CHARLOTTESVILLE CITY": [
+        "VA1020000"
+    ],
+    "CHESAPEAKE CITY": [
+        "VA1030000"
+    ],
+    "COLONIAL HEIGHTS CITY": [
+        "VA1050000"
+    ],
+    "COVINGTON CITY": [
+        "VA1060000"
+    ],
+    "DANVILLE CITY": [
+        "VA1070000"
+    ],
+    "FAIRFAX CITY": [
+        "VA1075000"
+    ],
+    "FALLS CHURCH CITY": [
+        "VA1080000"
+    ],
+    "FRANKLIN CITY": [
+        "VA1085000"
+    ],
+    "FREDERICKSBURG CITY": [
+        "VA1090000"
+    ],
+    "GALAX CITY": [
+        "VA1100000"
+    ],
+    "HAMPTON CITY": [
+        "VA1110000"
+    ],
+    "HARRISONBURG CITY": [
+        "VA1120000"
+    ],
+    "HOPEWELL CITY": [
+        "VA1130000"
+    ],
+    "LYNCHBURG CITY": [
+        "VA1140000"
+    ],
+    "MARTINSVILLE CITY": [
+        "VA1150000"
+    ],
+    "NEWPORT NEWS CITY": [
+        "VA1160000"
+    ],
+    "NORFOLK CITY": [
+        "VA1170000"
+    ],
+    "NORTON CITY": [
+        "VA1180000"
+    ],
+    "PETERSBURG CITY": [
+        "VA1190000"
+    ],
+    "PORTSMOUTH CITY": [
+        "VA1200000"
+    ],
+    "RADFORD CITY": [
+        "VA1210000"
+    ],
+    "RICHMOND CITY": [
+        "VA1220000"
+    ],
+    "ROANOKE CITY": [
+        "VA1230000"
+    ],
+    "STAUNTON CITY": [
+        "VA1260000"
+    ],
+    "SUFFOLK CITY": [
+        "VA1270000"
+    ],
+    "VIRGINIA BEACH CITY": [
+        "VA1280000"
+    ],
+    "WAYNESBORO CITY": [
+        "VA1290000"
+    ],
+    "WILLIAMSBURG CITY": [
+        "VA1300000"
+    ],
+    "WINCHESTER CITY": [
+        "VA1310000"
+    ]
+}

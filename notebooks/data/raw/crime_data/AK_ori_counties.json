@@ -1,0 +1,81 @@
+{
+    "ANCHORAGE": [
+        "AK0010100"
+    ],
+    "FAIRBANKS NORTH STAR": [
+        "AK0010200",
+        "AK0013200"
+    ],
+    "JUNEAU": [
+        "AK0010300"
+    ],
+    "KETCHIKAN GATEWAY": [
+        "AK0010400"
+    ],
+    "KODIAK ISLAND": [
+        "AK0010500"
+    ],
+    "NOME": [
+        "AK0010600"
+    ],
+    "PETERSBURG": [
+        "AK0010700"
+    ],
+    "KENAI PENINSULA": [
+        "AK0010800",
+        "AK0011900",
+        "AK0012000",
+        "AK0012200",
+        "AK0012300"
+    ],
+    "SITKA": [
+        "AK0010900"
+    ],
+    "SKAGWAY": [
+        "AK0011000"
+    ],
+    "WRANGELL": [
+        "AK0011100"
+    ],
+    "VALDEZ-CORDOVA": [
+        "AK0011200",
+        "AK0011400",
+        "AK0012800"
+    ],
+    "BETHEL": [
+        "AK0011300"
+    ],
+    "NORTHWEST ARCTIC": [
+        "AK0011600"
+    ],
+    "MATANUSKA-SUSITNA": [
+        "AK0011700",
+        "AK0015600"
+    ],
+    "NORTH SLOPE": [
+        "AK0011800"
+    ],
+    "HAINES": [
+        "AK0012100"
+    ],
+    "DILLINGHAM": [
+        "AK0013000"
+    ],
+    "HOONAH-ANGOON": [
+        "AK0013100"
+    ],
+    "ALEUTIANS WEST": [
+        "AK0013300",
+        "AK0015000"
+    ],
+    "PRINCE OF WALES-HYDER": [
+        "AK0013500",
+        "AK0014500"
+    ],
+    "BRISTOL BAY": [
+        "AK0014600"
+    ],
+    "ALEUTIANS EAST": [
+        "AK0015200"
+    ]
+}
