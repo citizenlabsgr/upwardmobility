@@ -208,7 +208,7 @@ def get_dataframe():
     """
     gets the dataframe and averages used for the site
     """
-    df = pd.read_csv("counties_merged.csv")
+    df = pd.read_csv("streamlitapp/counties_merged.csv")
 
     averages = {}
 
@@ -380,7 +380,7 @@ def get_county_details_url():
     if debug == "true":
         url = "http://localhost:8501/?fips="
     else:
-        url = "https://davidhcoe-mads697-main-1sf12v.streamlitapp.com/?fips="
+        url = "https://rachellcalhoun-citizenlabs-upwardmobili-streamlitappmain-2n5268.streamlitapp.com/?fips="
 
     return url
 
