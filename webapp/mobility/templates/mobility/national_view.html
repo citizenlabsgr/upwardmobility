@@ -1,0 +1,36 @@
+{% extends 'mobility/regular_base.html' %}
+{% load static %}
+
+{% block top_section %}
+{% endblock top_section %}
+
+{% block main_content %}
+<div class="container" style="min-height:0px;">
+<h2>National View </h2>
+<form method="get" class="form-inline">
+
+    {{ form }}
+    <button class="btn btn-primary">Submit </button>
+
+  </form>
+
+<p class="lead">
+    Having a larger view and zooming out can reveal patterns and outliers.
+  </p>
+<p>Select a metric to see a metric on a national level, or click on a county to explore more details about that county's specific metrics.</p>
+</div>
+
+<div class="frame-container">
+  <iframe class="responsive-iframe"  src="{{ streamlit_url }}&metric={{metric}}" >
+    <p>Your browser does not support iframes.</p>
+  </iframe>
+  </div>
+
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('#id_metric').select2({placeholder: 'Select a County'});
+});
+</script>
+{% endblock main_content %}
+

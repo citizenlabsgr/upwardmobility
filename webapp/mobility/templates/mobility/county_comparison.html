@@ -1,0 +1,29 @@
+{% extends 'mobility/regular_base.html' %}
+{% load static %}
+
+{% block main_content %}
+<div class="container" style="min-height:0px;">
+  <h2>County Comparison </h2>
+  <p class="lead">
+      Choose two counties to see a comparison.
+  </p>
+  <form method="get" class="form-inline">
+    {{ form }}
+    <button class="btn btn-primary">Submit </button>
+  </form>
+  {% if fips1 and fips2 %}
+</div>
+<div class="frame-container">
+    <iframe class="responsive-iframe"  src="{{ streamlit_url }}&fips1={{fips1}}&fips2={{fips2}}" >
+
+    <p>Your browser does not support iframes.</p>
+  </iframe>
+</div>
+  {% endif %}
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#id_fips1').select2({placeholder: 'Select a County'});
+      $('#id_fips2').select2({placeholder: 'Select a County'});
+  });
+     </script>
+{% endblock main_content %}

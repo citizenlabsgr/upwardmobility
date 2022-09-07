@@ -1,0 +1,246 @@
+{% extends 'mobility/base.html' %}
+{% load static %}
+
+{% block extra_style %}
+<style>
+header {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, 0.39), rgba(0, 0, 0, 0.39)), url('{% static "mobility/earth-header-7412098.jpg"%}');
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-color: rgba(0, 0, 0, 0.37);
+}
+.content {
+    padding:5px;
+}
+</style>
+<link href="{% static 'mobility/css/main.css' %}" rel="stylesheet">
+{% endblock extra_style %}
+{% block content %}
+	<!-- Header -->
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1>Upward Mobility</h1>
+                <p>Strong communities create strong individuals.</p>
+                <a href="#summary" class="btn btn-primary btn-lg">See more</a>
+            </div>
+        </div>
+        <cite style="position:absolute; bottom:0; text-align:right" >Photo by <a href="https://www.pexels.com/photo/anonymous-person-magnifying-view-of-coins-shaped-in-world-map-7412098/">Monstera</a></cite>
+    </header> 
+
+	<!-- Intro Section -->
+    <section class="intro">
+        <div class="container">
+            <h2 class="section-heading" id="summary">Summary</h2>
+            <div class="row">
+
+                <div class="col-sm-6  text-left">
+
+                    <p class="">
+                        Communities can foster environments for citizens to thrive and boost their upward mobility.
+                        The conditions most local to a family are also most critical to achieve mobility from poverty.
+                        Mobility from poverty includes economic success, power and autonomy, and being valued in a community.
+                        <br><br>To measure how upwardly mobile a community is, there are three key drivers tied to the definition: </p>
+                        <ol>
+                            <li>Strong and health families</li>
+                            <li>Supportive communities</li>
+                            <li>Opportunities to learn and earn</li>
+                        </ol>
+                    </div>
+                    <div class="col-sm-6  text-left">
+                        <p  class="">
+                            Each driver has evidence-based metrics associated with it that can highlight the strengths and weaknesses of
+                             a community, and track progress on goals to improve the lives of its residents. These metrics can then inform
+                             community leaders where priorities should be to ensure that citizens have the opportunity to reach their full
+                             potential and be well-rounded individuals.
+                            <br> <br>
+                        This project was inspired and has intended to follow the research report
+                        <a style="color:white;font-weight:bold;" href="https://www.urban.org/research/publication/boosting-upward-mobility-metrics-inform-local-action">Boosting Upward Mobility: Metrics
+                        to Inform Local Action.</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+	<!-- Content 1 -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <img 
+                    class="img-responsive img-circle center-block" 
+                    src="{% static 'mobility/housing.jpg' %}" 
+                    alt="White Blue and Gray houses in a line on a street">
+                    <cite>Photo by <a href="https://www.pexels.com/photo/white-blue-and-gray-concrete-building-164338/">Pixabay</a></cite>
+                </div>
+                <cite></cite>
+                <div class="col-sm-6">
+                	<h2 class="section-header">Housing</h2>
+                	<p class="lead text-muted">
+                        Having a place to call "home" provides a place where families can feel secure and at peace.
+                        Housing instability can add barriers to employment, and take away a sense of belonging.
+                        <br><br>We measure the percent of public school children ever homeless during the school year,
+                        which often reflects overall housing instability in a community.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+	<!-- Content 2 -->
+    <section class="content content-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                	<h2 class="section-header">Access To Healthcare</h2>
+                	<p class="lead text-light">
+                        Access to quality primary care is an important building block to supporting
+                         healthy families for preventative medicine as well as management of chronic
+                          conditions. <br><br>We look at access to primary care facilities for counties across
+                          the US and identify areas with shortages of healthcare professionals.
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <img 
+                    class="img-responsive img-circle center-block" 
+                    src="{% static 'mobility/healthcare.jpg' %}" 
+                    alt="Crop man putting medical mask on face of ethnic child">
+                    <cite>Photo by <a href="https://www.pexels.com/photo/crop-man-putting-medical-mask-on-face-of-ethnic-child-4546132/">Ketut Subiyanto</a></cite>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Promos -->
+	<div class=" intro container-fluid">
+        <div class="row promo text-left" style="padding-left: 10px;padding-right: 10px;">
+
+				<div class="col-md-4 item-1">
+					<h3>
+						Local Governance
+					</h3>
+                    <p>
+                        High voter turnout signifies political engagement within the community.
+                        Low voter turnout may be a reflection of barriers to participation, including
+                         inconvenient polling location hours, or difficult processes to obtain absentee ballots.
+                         <br><br>
+                        We measure voter turnout for voting eligible populations in elections.
+                    </p>
+				</div>
+
+
+				<div class="col-md-4 item-2">
+					<h3>
+						Neighborhoods
+					</h3>
+                    <p>
+                        Everyone wants to feel a sense of belonging in the place they live.
+                        Neighborhoods that are diverse and welcoming foster thriving communities and successful families.
+                        <br><br>
+                        We measure economic inclusion, racial diversity, transportation access, and air quality index.
+                    </p>
+				</div>
+
+
+
+				<div class="col-md-4 item-3">
+					<h3>
+						Safety
+					</h3>
+                    <p>
+                        Feeling safe in the community we live in reduces stress, and allows
+                        individuals to focus on things that will move their life forward. <br>
+                        <br><br>
+                        We measure exposure to violent crime and rate of juvenile incarceration.
+                    </p>
+				</div>
+
+        </div>
+    </div>
+    <!-- /.container-fluid -->
+
+	<!-- Content 1 -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <img 
+                    class="img-responsive img-circle center-block" 
+                    src="{% static 'mobility/education.jpg' %}" 
+                    alt="Close up of a young child writing with a pencil on a workbook page"
+                    >
+                    <cite>Photo by <a href="https://pixabay.com/users/picjumbo_com-2130229/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=865116">
+                        www.picjumbo.com</a> 
+                   </cite>
+                </div>
+                <div class="col-sm-6">
+                	<h2 class="section-header">Access to Education</h2>
+                	<p class="lead text-muted">
+                        Attending quality schools as early as possible is correlated
+                        with higher academic achievement later in life.  This includes
+                        access to preschool for young children, and being enrolled in
+                        high-achieving schools as they grow.<br><br> We measure the proportion
+                        of eligible children enrolled in preschool, and the change in
+                        English Language Arts achievement in schools.
+                 </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+	<!-- Content 2 -->
+     <section class="content content-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                	<h2 class="section-header">Work</h2>
+                	<p class="lead text-light">
+                        Access to stable employment provides both economic stability and a feeling of purpose.
+                        Jobs support economic success and control over one’s life.
+                        <br><br>
+                        We measure the employment-to-population ratio for citizens during their prime working years.
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <img 
+                    class="img-responsive img-circle center-block" 
+                    src="{% static 'mobility/work.jpg' %}" 
+                    alt="Cheerful businesswoman reading documents in folder">
+                    <cite>Photo by <a href="https://www.pexels.com/photo/cheerful-businesswoman-reading-documents-in-folder-5999867/">Ono Kosuki</a></cite>
+                </div>
+
+            </div>
+        </div>
+    </section>
+	<!-- Content 3 -->
+     <section class="content content-3">
+        <div class="container">
+			<h2 class="section-header">Financial Wellbeing</h2>
+			<p class="lead text-muted text-left">
+                In order to achieve upward mobility, earning enough is a critical factor.
+                Not being able to meet basic financial  needs is stressful, and prevents
+                families from affording things they want or need.
+                <br>
+                <br>
+                 We measure both the share of households in debt collections and household income within a 
+                 community to understand the financial situation within a
+                community, as well as income inequality.
+            </p>
+            </div>
+            <hr>
+        </div>
+    </section>
+{% endblock content %}

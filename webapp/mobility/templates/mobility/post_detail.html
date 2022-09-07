@@ -1,0 +1,42 @@
+{% extends 'mobility/regular_base.html' %}
+{% load static %}
+{% block top_section %}
+{% endblock top_section %}
+
+{% block main_content %}
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+<div class="container">
+    <div class="row">
+    <h1>{{ object.title }}</h1>
+    <small>Published: {{ object.published_date|date }}</small><br>
+    {% if object.author.get_full_name %}
+    <small class="text-muted">Prepared by: {{ object.author.get_full_name }} </small>
+    {% endif %}
+    <hr>
+    </div>
+    <div class="container"  style="max-width:80%;">
+        <p>{{ object.text.html|safe }}</p>
+        {% if object.iframe_media %} 
+            {{ object.iframe_media|safe}}
+        {% endif %}
+
+        {% if object.sub_sections %} 
+            {% for section in object.sub_sections.all %}
+            <div class="">
+                <div class="row">
+                  <h2>{{ section.section_title }}</h2>  
+                </div>
+                <div class="row">
+                    {{ section.section_text.html|safe }}
+                </div>
+                <div class="row">
+                {{ section.visualization|safe }}
+                </div>
+            {% endfor %}
+        {% endif %}
+        </div>
+    </div>
+</div>
+{% endblock main_content %}

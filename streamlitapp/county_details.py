@@ -154,7 +154,7 @@ def show_county_details_page():
                         "<style>.stVideo {margin-left: 80px; padding: 6px; border: 2px solid #ddd} </style>",
                         unsafe_allow_html=True,
                     )
-                    video_file = open("Racial_Ethnic Exposure Index.mp4", "rb")
+                    video_file = open("streamlitapp/Racial_Ethnic Exposure Index.mp4", "rb") 
                     video_bytes = video_file.read()
                     st.video(video_bytes, format="video/mp4", start_time=0)
 
