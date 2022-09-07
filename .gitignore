@@ -2,4 +2,3 @@
 __pycache__/*
 streamlitapp/__pycache__/*
 **/__pycache__
-webapp/db.sqlite3
