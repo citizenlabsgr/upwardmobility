@@ -1,0 +1,21 @@
+{% extends 'mobility/regular_base.html' %}
+{% load static %}
+
+{% block top_section %}
+{% endblock top_section %}
+
+{% block main_content %}
+<div class="container" style="min-height:0px;">
+  <h2>County Finder</h2>
+
+  <p class="lead">
+      Everyone has different priorities and preferences, select your top three metrics and assign a weight to each totalling 100
+      to see a list of top recommended counties. 
+    </p>
+</div>
+<div class="frame-container">
+    <iframe class="responsive-iframe"  src="{{ streamlit_url }}&page=picker" >
+    <p>Your browser does not support iframes.</p>
+  </iframe>
+</div>
+{% endblock main_content %}

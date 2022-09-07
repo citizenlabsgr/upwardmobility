@@ -1,0 +1,28 @@
+{% extends 'mobility/regular_base.html' %}
+{% load static %}
+{% block top_section %}
+{% endblock top_section %}
+
+{% block main_content %}
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+</style>
+<div class="container">
+    <h1>Articles</h1>
+    <hr>
+    <div class="container" style="max-width: 80%;">
+        {% for article in object_list %}
+        <div class="row inline">
+                <h3><a href="{% url 'post_detail' slug=article.slug %}">{{ article.title }}</a> </h3>
+                <small class="text-muted">{{ article.published_date|date }}</small>
+            </div>
+        {% empty %}
+            <p>No articles yet.</p>
+        {% endfor %}
+    </div>
+</div>
+{% endblock main_content %}
